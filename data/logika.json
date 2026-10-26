@@ -1,0 +1,517 @@
+[
+  {
+    "category": "Logický úsudek",
+    "difficulty": 1,
+    "question": "Všichni kosové jsou ptáci. Všichni ptáci mají peří.\n\nPlyne z toho, že všichni kosové mají peří?",
+    "options": [
+      "Ano, plyne",
+      "Ne, neplyne"
+    ],
+    "answer": "Ano, plyne",
+    "explanation": "Kosové jsou podmnožinou ptáků a všichni ptáci mají peří, takže i všichni kosové mají peří."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 1,
+    "question": "Všechny růže jsou květiny. Některé květiny rychle vadnou.\n\nPlyne z toho, že některé růže rychle vadnou?",
+    "options": [
+      "Ano, plyne",
+      "Ne, neplyne"
+    ],
+    "answer": "Ne, neplyne",
+    "explanation": "Rychle vadnoucí květiny mohou být úplně jiné než růže (např. jen tulipány). Z předpokladů to tedy nutně neplyne."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 2,
+    "question": "Žádný glump není frak. Všichni zorbové jsou fraci.\n\nKterý závěr nutně plyne?",
+    "options": [
+      "Všichni fraci jsou zorbové",
+      "Někteří fraci nejsou zorbové",
+      "Někteří glumpové jsou zorbové",
+      "Žádný zorb není glump"
+    ],
+    "answer": "Žádný zorb není glump",
+    "explanation": "Každý zorb je frak a žádný frak není glump, proto žádný zorb nemůže být glump. Ostatní tvrzení z předpokladů nevyplývají."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 1,
+    "question": "Žádný had nemá nohy. Někteří plazi jsou hadi.\n\nKterý závěr nutně plyne?",
+    "options": [
+      "Někteří plazi nemají nohy",
+      "Někteří hadi mají nohy",
+      "Žádný plaz nemá nohy",
+      "Všichni plazi mají nohy"
+    ],
+    "answer": "Někteří plazi nemají nohy",
+    "explanation": "Plazi, kteří jsou hadi, nemají nohy – tedy aspoň někteří plazi nohy nemají. O ostatních plazech nic nevíme."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 2,
+    "question": "Všechny trilky jsou modré. Žádná věc v krabici není modrá.\n\nKterý závěr nutně plyne?",
+    "options": [
+      "V krabici jsou jen trilky",
+      "Žádná trilka není v krabici",
+      "Některé modré věci jsou v krabici",
+      "Všechny modré věci jsou trilky"
+    ],
+    "answer": "Žádná trilka není v krabici",
+    "explanation": "Kdyby byla nějaká trilka v krabici, byla by modrá, ale v krabici nic modrého není. Proto v krabici žádná trilka není."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 3,
+    "question": "Všichni brumlové jsou ťapkové. Někteří ťapkové nejsou cvrčci.\n\nPlyne z toho, že někteří brumlové nejsou cvrčci?",
+    "options": [
+      "Ano, plyne",
+      "Ne, neplyne"
+    ],
+    "answer": "Ne, neplyne",
+    "explanation": "Ťapkové, kteří nejsou cvrčci, nemusí být brumlové – všichni brumlové klidně mohou být cvrčci. Závěr tedy nutně neplyne."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 2,
+    "question": "Žádný účastník kurzu nekouří. Každý, kdo chodí na balkon, kouří.\n\nKterý závěr nutně plyne?",
+    "options": [
+      "Kdo nechodí na balkon, je účastník kurzu",
+      "Někteří kuřáci jsou účastníky kurzu",
+      "Žádný účastník kurzu nechodí na balkon",
+      "Všichni kuřáci chodí na balkon"
+    ],
+    "answer": "Žádný účastník kurzu nechodí na balkon",
+    "explanation": "Kdo chodí na balkon, kouří; účastník kurzu nekouří, tedy na balkon chodit nemůže."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 3,
+    "question": "Hlasovat mohou pouze členové spolku. Někteří členové jsou nováčci. Všichni nováčci platí poloviční příspěvek.\n\nKteré tvrzení musí být pravdivé?",
+    "options": [
+      "Kdo platí poloviční příspěvek, nemůže hlasovat",
+      "Někteří nováčci mohou hlasovat",
+      "Všichni členové mohou hlasovat",
+      "Někteří, kdo platí poloviční příspěvek, jsou členové"
+    ],
+    "answer": "Někteří, kdo platí poloviční příspěvek, jsou členové",
+    "explanation": "Nováčci jsou členové a všichni platí poloviční příspěvek, takže aspoň někteří plátci polovičního příspěvku jsou členové. „Pouze členové mohou hlasovat“ ale neznamená, že hlasovat může každý člen, proto o hlasování nováčků nic nevíme."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 1,
+    "question": "Každý, kdo vlastní loď, umí plavat. Tomáš neumí plavat.\n\nCo z toho plyne?",
+    "options": [
+      "Tomáš vlastní loď",
+      "Tomáš nevlastní loď",
+      "Nelze rozhodnout, zda Tomáš vlastní loď"
+    ],
+    "answer": "Tomáš nevlastní loď",
+    "explanation": "Kdyby Tomáš vlastnil loď, uměl by plavat. Plavat neumí, takže loď vlastnit nemůže."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 2,
+    "question": "Každý, kdo vlastní loď, umí plavat. Eva umí plavat.\n\nVlastní Eva loď?",
+    "options": [
+      "Ano",
+      "Ne",
+      "Nelze rozhodnout"
+    ],
+    "answer": "Nelze rozhodnout",
+    "explanation": "Pravidlo říká jen, že majitelé lodí umí plavat, ne že každý plavec vlastní loď. Eva může, ale nemusí loď vlastnit."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 1,
+    "question": "Platí: Jestliže zazvoní budík, Ondra vstane. Budík zazvonil.\n\nVstal Ondra?",
+    "options": [
+      "Ano",
+      "Ne",
+      "Nelze rozhodnout"
+    ],
+    "answer": "Ano",
+    "explanation": "Podmínka byla splněna (budík zazvonil), takže nastal i důsledek – Ondra vstal."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 2,
+    "question": "Platí: Pokud bude svítit slunce, půjdeme na výlet. Slunce nesvítí.\n\nPůjdeme na výlet?",
+    "options": [
+      "Ano",
+      "Ne",
+      "Nelze rozhodnout"
+    ],
+    "answer": "Nelze rozhodnout",
+    "explanation": "Pravidlo neříká nic o tom, co se stane, když slunce nesvítí. Na výlet můžeme jít i tak, ale nemusíme."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 2,
+    "question": "Který výrok má stejný význam jako výrok „Jestliže je číslo dělitelné šesti, je dělitelné třemi“?",
+    "options": [
+      "Jestliže číslo není dělitelné třemi, není dělitelné šesti",
+      "Číslo je dělitelné šesti, právě když je dělitelné třemi",
+      "Jestliže je číslo dělitelné třemi, je dělitelné šesti",
+      "Jestliže číslo není dělitelné šesti, není dělitelné třemi"
+    ],
+    "answer": "Jestliže číslo není dělitelné třemi, není dělitelné šesti",
+    "explanation": "Implikace „jestliže A, pak B“ je ekvivalentní obměně „jestliže ne B, pak ne A“. Obrácená implikace ani ekvivalence z ní neplynou."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 2,
+    "question": "Jaká je negace (popření) výroku „Každý žák napsal test na jedničku“?",
+    "options": [
+      "Žádný žák nenapsal test na jedničku",
+      "Alespoň jeden žák nenapsal test na jedničku",
+      "Alespoň jeden žák napsal test na jedničku",
+      "Každý žák napsal test hůř než na jedničku"
+    ],
+    "answer": "Alespoň jeden žák nenapsal test na jedničku",
+    "explanation": "Výrok „každý…“ je nepravdivý, jakmile existuje aspoň jedna výjimka. „Žádný žák nenapsal…“ je příliš silné tvrzení."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 3,
+    "question": "Platí: Když na večírek přijde Adam, přijde i Bára. Když přijde Bára, nepřijde Cyril. Cyril na večírek přišel.\n\nCo z toho nutně plyne?",
+    "options": [
+      "Adam přišel",
+      "Bára přišla",
+      "Adam nepřišel",
+      "O Adamovi nelze nic říct"
+    ],
+    "answer": "Adam nepřišel",
+    "explanation": "Cyril přišel, takže Bára přijít nemohla (jinak by Cyril nepřišel). A protože Bára nepřišla, nemohl přijít ani Adam (jinak by přišla i ona)."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 1,
+    "question": "Petr je vyšší než Jana. Jana je vyšší než Karel.\n\nKdo z nich je nejmenší?",
+    "answer": "Karel",
+    "explanation": "Platí Petr > Jana > Karel, nejmenší je tedy Karel."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 1,
+    "question": "Eva je starší než Dana, ale mladší než Hana. Ivana je starší než Hana.\n\nKterá z dívek je nejmladší?",
+    "answer": "Dana",
+    "explanation": "Od nejstarší: Ivana, Hana, Eva, Dana. Nejmladší je Dana."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 2,
+    "question": "Na polici stojí vedle sebe pět knih: modrá, červená, zelená, žlutá a bílá.\n– Zelená stojí úplně vpravo.\n– Bílá stojí úplně vlevo.\n– Žlutá stojí hned vlevo od zelené.\n– Modrá stojí někde vlevo od červené.\n\nKterá kniha stojí uprostřed?",
+    "answer": "červená",
+    "accept": [
+      "červená kniha"
+    ],
+    "explanation": "Bílá je 1., zelená 5., žlutá 4. Na místa 2 a 3 zbývá modrá a červená, a protože modrá je vlevo od červené, je modrá 2. a červená 3. – uprostřed."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 2,
+    "question": "Čtyři běžci – Ota, Pavel, Radek a Simon – doběhli do cíle, nikdo současně.\n– Radek doběhl hned za Simonem.\n– Ota nebyl první ani poslední.\n– Pavel doběhl před Otou.\n\nKdo doběhl třetí?",
+    "answer": "Simon",
+    "explanation": "Ota je 2. nebo 3. Kdyby byl 3., musel by být Pavel před ním (1. nebo 2.) a pro dvojici Simon–Radek by nezbyla dvě sousední místa. Proto je Ota 2., Pavel 1. a Simon s Radkem 3. a 4. Třetí je Simon."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 2,
+    "question": "Jablko je těžší než hruška. Pomeranč je lehčí než hruška, ale těžší než švestka. Kiwi je těžší než jablko.\n\nKteré ovoce je třetí nejtěžší?",
+    "answer": "hruška",
+    "explanation": "Od nejtěžšího: kiwi, jablko, hruška, pomeranč, švestka. Třetí nejtěžší je hruška."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 3,
+    "question": "Martin je starší než Lucie. Lucie je starší než Ondřej. Tereza je mladší než Martin.\n\nKdo z nich je nejmladší?",
+    "options": [
+      "Ondřej",
+      "Tereza",
+      "Lucie",
+      "Nelze jednoznačně určit"
+    ],
+    "answer": "Nelze jednoznačně určit",
+    "explanation": "Víme jen Martin > Lucie > Ondřej a Martin > Tereza. Tereza může být mladší i starší než Ondřej, nejmladší tedy může být Ondřej i Tereza."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 2,
+    "question": "V domě s pěti podlažími (1. až 5.) bydlí v každém podlaží jedna rodina: Novákovi, Svobodovi, Dvořákovi, Černí a Procházkovi.\n– Svobodovi bydlí v 1. podlaží.\n– Novákovi bydlí výš než Dvořákovi, ale níž než Černí.\n– Procházkovi bydlí přímo nad Černými.\n\nKdo bydlí ve 3. podlaží?",
+    "answer": "Novákovi",
+    "accept": [
+      "Novák",
+      "Nováci"
+    ],
+    "explanation": "Pro podlaží 2–5 platí Dvořákovi < Novákovi < Černí a Procházkovi hned nad Černými. Jediná možnost: 2. Dvořákovi, 3. Novákovi, 4. Černí, 5. Procházkovi."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 2,
+    "question": "Jirka je ve třídě sedmý nejlepší žák a zároveň dvanáctý nejhorší. Kolik žáků je ve třídě (pořadí je bez dělených míst)?",
+    "answer": "18",
+    "accept": [
+      "18 žáků"
+    ],
+    "explanation": "Před Jirkou je 6 lepších, za ním 11 horších: 6 + 1 + 11 = 18 žáků."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 1,
+    "question": "Ve frontě stojí Anna. Před ní stojí 5 lidí a za ní dvakrát tolik lidí, kolik jich stojí před ní. Kolik lidí stojí ve frontě celkem?",
+    "answer": "16",
+    "accept": [
+      "16 lidí"
+    ],
+    "explanation": "Před Annou 5 lidí, za ní 2 · 5 = 10 lidí, plus Anna: 5 + 10 + 1 = 16."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 2,
+    "question": "Na ostrově žijí poctivci, kteří vždy mluví pravdu, a lháři, kteří vždy lžou. Potkáš dva ostrovany, A a B. A řekne: „Oba jsme lháři.“\n\nKdo je kdo?",
+    "options": [
+      "A je lhář, B je poctivec",
+      "Oba jsou poctivci",
+      "A je poctivec, B je lhář",
+      "Oba jsou lháři"
+    ],
+    "answer": "A je lhář, B je poctivec",
+    "explanation": "Poctivec by o sobě neřekl, že je lhář, takže A je lhář a jeho výrok je nepravdivý. Nejsou tedy oba lháři – B je poctivec."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 3,
+    "question": "Na ostrově žijí poctivci, kteří vždy mluví pravdu, a lháři, kteří vždy lžou. A říká: „B je lhář.“ B říká: „A i já jsme stejného druhu.“\n\nKdo je kdo?",
+    "options": [
+      "Oba jsou lháři",
+      "A je poctivec, B je lhář",
+      "A je lhář, B je poctivec",
+      "Oba jsou poctivci"
+    ],
+    "answer": "A je poctivec, B je lhář",
+    "explanation": "Kdyby byl A lhář, byl by B poctivec a jeho výrok „jsme stejného druhu“ by byl nepravdivý – spor. Takže A je poctivec, B je lhář a B opravdu lže."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 3,
+    "question": "Na ostrově žijí poctivci, kteří vždy mluví pravdu, a lháři, kteří vždy lžou. A říká: „B je lhář.“ B říká: „C je lhář.“ C říká: „A i B jsou lháři.“\n\nKdo z nich je poctivec?",
+    "options": [
+      "Pouze A",
+      "Pouze B",
+      "Pouze C",
+      "A a C"
+    ],
+    "answer": "Pouze B",
+    "explanation": "Kdyby C mluvil pravdu, byli by A i B lháři; pak by ale A lhal, že B je lhář, a B by byl poctivec – spor. C tedy lže, B mluví pravdu (je poctivec) a A, který tvrdí, že B je lhář, lže."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 2,
+    "question": "Na ostrově žijí poctivci, kteří vždy mluví pravdu, a lháři, kteří vždy lžou. Který ostrovan může o sobě říct „Jsem lhář“?",
+    "options": [
+      "Pouze poctivec",
+      "Pouze lhář",
+      "Kdokoli z nich",
+      "Žádný z nich"
+    ],
+    "answer": "Žádný z nich",
+    "explanation": "Poctivec by tím řekl nepravdu a lhář pravdu. Ani jeden to tedy říct nemůže."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 2,
+    "question": "Jeden ze tří bratrů snědl dort.\nAdam: „Snědl ho Bedřich.“\nBedřich: „Já ne.“\nCyril: „Já ne.“\nVíme, že pravdu mluví právě jeden z nich. Kdo snědl dort?",
+    "answer": "Cyril",
+    "explanation": "Kdyby to byl Adam, mluvili by pravdu Bedřich i Cyril; kdyby Bedřich, pravdu by měli Adam a Cyril. Jen když dort snědl Cyril, mluví pravdu pouze Bedřich."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 3,
+    "question": "Jeden ze čtyř podezřelých rozbil okno.\nAleš: „Byl to Bohdan.“\nBohdan: „Byl to David.“\nCtibor: „Já to nebyl.“\nDavid: „Bohdan lže.“\nVíme, že lže právě jeden z nich. Kdo rozbil okno?",
+    "answer": "Bohdan",
+    "explanation": "Výroky Bohdana a Davida si odporují, takže lže jeden z nich – a ostatní mluví pravdu. Aleš tedy mluví pravdu: byl to Bohdan. Kontrola: Bohdan lže, Ctibor i David mluví pravdu."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 1,
+    "question": "Klára vždy lže. Řekla: „Venku je teplo.“\n\nJaké je venku počasí?",
+    "options": [
+      "Venku je teplo",
+      "Venku není teplo",
+      "Nelze rozhodnout"
+    ],
+    "answer": "Venku není teplo",
+    "explanation": "Klára vždy lže, její výrok je tedy nepravdivý – venku teplo není."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 1,
+    "question": "Adam, Beáta a Cecílie sedí vedle sebe na lavičce. Beáta nesedí na kraji. Adam sedí vlevo od Beáty.\n\nKdo sedí úplně vpravo?",
+    "answer": "Cecílie",
+    "explanation": "Beáta sedí uprostřed, Adam vlevo od ní, na pravém kraji tedy zbývá Cecílie."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 2,
+    "question": "U čtvercového stolu sedí čtyři lidé, každý u jedné strany a čelem ke stolu: Jana, Karel, Lenka a Milan. Jana sedí naproti Karlovi. Lenka sedí po Janině levé ruce.\n\nKdo sedí po Karlově levé ruce?",
+    "answer": "Milan",
+    "explanation": "Lenka je po Janině levici, Milan tedy po její pravici. Karel sedí naproti Janě, takže jeho levice je na téže straně jako Janina pravice – tam sedí Milan."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 2,
+    "question": "Pět přátel sedí v kině v jedné řadě na sedadlech 1–5 (počítáno zleva): Dita, Emil, Filip, Gábina a Hugo.\n– Emil sedí na sedadle 3.\n– Hugo sedí hned vpravo od Emila.\n– Filip nesedí vedle Emila.\n– Gábina sedí někde vlevo od Filipa.\n– Dita nesedí na kraji.\n\nKdo sedí na sedadle 1?",
+    "answer": "Gábina",
+    "explanation": "Hugo je na 4. Filip nesmí být na 2 ani 4, a protože Gábina je vlevo od něj, je Filip na 5. Dita nesedí na kraji, tedy je na 2, a na sedadle 1 sedí Gábina."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 3,
+    "question": "Šest lidí sedí u kulatého stolu se šesti rovnoměrně rozmístěnými židlemi: Alena, Bohouš, Cyril, Daniela, Emil a Františka.\n– Alena sedí naproti Cyrilovi.\n– Bohouš sedí vedle Aleny.\n– Daniela sedí naproti Bohoušovi.\n– Emil nesedí vedle Cyrila.\n\nKdo sedí naproti Emilovi?",
+    "answer": "Františka",
+    "explanation": "Alena a Cyril sedí naproti sobě, Bohouš vedle Aleny, Daniela naproti Bohoušovi – tedy vedle Cyrila. Zbylá dvě místa jsou vedle Aleny a vedle Cyrila; Emil nesmí k Cyrilovi, sedí tedy vedle Aleny a naproti němu je Františka."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 2,
+    "question": "Ve třech domech vedle sebe (levý, prostřední, pravý) bydlí Karel, Lukáš a Marek. Domy jsou červený, modrý a zelený, každý má jiné zvíře: psa, kočku nebo rybičky.\n– Karel bydlí v červeném domě.\n– Zelený dům stojí hned vpravo od červeného.\n– V prostředním domě chovají psa.\n– Marek bydlí v modrém domě.\n– Lukáš chová kočku.\n\nKdo chová rybičky?",
+    "answer": "Marek",
+    "explanation": "Lukáš bydlí v zeleném domě a má kočku, takže zelený dům není prostřední (tam je pes). Proto je červený uprostřed, zelený vpravo a modrý vlevo. Karel má psa, Lukáš kočku a na Marka zbývají rybičky."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 3,
+    "question": "Ivana, Jitka, Kamila a Lada mají každá jiné povolání: lékařka, učitelka, právnička a kuchařka.\n– Kamila není lékařka ani učitelka.\n– Ivana není učitelka ani lékařka.\n– Lada chodí s lékařkou do kina.\n– Kuchařka je Ivanina sestřenice.\n\nKterá z nich je právnička?",
+    "answer": "Ivana",
+    "explanation": "Ivana a Kamila jsou právnička a kuchařka, na Jitku a Ladu zbývá lékařka a učitelka. Lada není lékařka (chodí s ní do kina), takže je učitelka a Jitka lékařka. Ivana není kuchařka (ta je její sestřenice), je tedy právnička."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 2,
+    "question": "Mám pouze červené, modré a zelené pastelky, od každé barvy aspoň jednu. Všechny kromě dvou jsou červené, všechny kromě dvou jsou modré a všechny kromě dvou jsou zelené. Kolik mám pastelek?",
+    "answer": "3",
+    "accept": [
+      "3 pastelky"
+    ],
+    "explanation": "Nečervené jsou dvě (modré + zelené = 2), stejně tak modré + červené = 2 a červené + zelené = 2. Odtud je od každé barvy jedna, celkem 3 pastelky."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 1,
+    "question": "V šuplíku jsou promíchané černé a bílé ponožky. Kolik ponožek musíš potmě vytáhnout, abys měl jistě dvě stejné barvy?",
+    "answer": "3",
+    "accept": [
+      "3 ponožky"
+    ],
+    "explanation": "Při dvou ponožkách můžeš mít jednu černou a jednu bílou. Třetí už musí mít barvu jedné z nich."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 2,
+    "question": "Petr má tři sestry. Každá z jeho sester má dva bratry. Kolik dětí je v rodině?",
+    "answer": "5",
+    "accept": [
+      "5 dětí"
+    ],
+    "explanation": "Dva bratři každé sestry jsou Petr a ještě jeden chlapec. V rodině jsou tedy 3 dívky a 2 chlapci, celkem 5 dětí."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 3,
+    "question": "Na stole leží čtyři kartičky. Každá má na jedné straně písmeno a na druhé číslo. Vidíš: A, K, 4, 7.\nPravidlo: „Má-li kartička na jedné straně samohlásku, je na druhé straně sudé číslo.“\n\nKteré kartičky musíš otočit, abys ověřil, zda pravidlo platí?",
+    "options": [
+      "A, 4 a 7",
+      "A a 4",
+      "Pouze A",
+      "A a 7"
+    ],
+    "answer": "A a 7",
+    "explanation": "Otočit je třeba A (musí mít sudé číslo) a 7 (nesmí mít samohlásku). Kartička 4 pravidlo porušit nemůže – pravidlo neříká, že sudé číslo má jen samohláska. K pravidlo vůbec neomezuje."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 3,
+    "question": "Na papíře jsou napsány tři výroky:\n1. Právě jeden z těchto tří výroků je nepravdivý.\n2. Právě dva z těchto tří výroků jsou nepravdivé.\n3. Všechny tři výroky jsou nepravdivé.\n\nKterý výrok je pravdivý?",
+    "options": [
+      "Pouze 1.",
+      "Pouze 2.",
+      "Pouze 3.",
+      "Žádný"
+    ],
+    "answer": "Pouze 2.",
+    "explanation": "Výroky se navzájem vylučují, pravdivý může být nejvýš jeden, takže nepravdivé jsou aspoň dva. Kdyby byly nepravdivé všechny, byl by 3. pravdivý – spor. Nepravdivé jsou tedy právě dva a pravdivý je 2. výrok."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 1,
+    "question": "Všechna jablka v košíku jsou červená. Lucie vytáhla z košíku zelený plod.\n\nCo z toho plyne?",
+    "options": [
+      "Lucie nevytáhla jablko",
+      "V košíku nejsou žádná jablka",
+      "Nelze nic usoudit",
+      "Lucie vytáhla nezralé jablko"
+    ],
+    "answer": "Lucie nevytáhla jablko",
+    "explanation": "Kdyby to bylo jablko z košíku, muselo by být červené. Zelený plod tedy jablko není."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 1,
+    "question": "V hotelu má každý pokoj v 1. patře balkon. Pokoj 12 balkon nemá.\n\nCo z toho plyne?",
+    "options": [
+      "Pokoj 12 je ve 2. patře",
+      "Pokoj 12 není v 1. patře",
+      "Nelze rozhodnout",
+      "Pokoj 12 je v 1. patře"
+    ],
+    "answer": "Pokoj 12 není v 1. patře",
+    "explanation": "Kdyby byl pokoj 12 v 1. patře, měl by balkon. Nemá ho, takže v 1. patře být nemůže."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 1,
+    "question": "Všechny Mariiny kočky jsou černé. Micka je Mariina kočka.\n\nJe Micka černá?",
+    "options": [
+      "Ano",
+      "Ne",
+      "Nelze rozhodnout"
+    ],
+    "answer": "Ano",
+    "explanation": "Micka patří mezi Mariiny kočky a ty jsou všechny černé, takže i Micka je černá."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 1,
+    "question": "Každý den, kdy prší, nosí Jakub deštník. Dnes Jakub nese deštník.\n\nPrší dnes?",
+    "options": [
+      "Ano",
+      "Ne",
+      "Nelze rozhodnout"
+    ],
+    "answer": "Nelze rozhodnout",
+    "explanation": "Pravidlo říká jen, že když prší, má Jakub deštník. Deštník ale může nosit i za sucha, takže z toho, že ho nese, nelze usoudit na déšť."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 1,
+    "question": "Ve třídě je 20 žáků. Každý z nich má buď psa, nebo kočku, nebo obojí. Psa má 12 žáků a kočku 11 žáků. Kolik žáků má psa i kočku?",
+    "answer": "3",
+    "accept": [
+      "3 žáci"
+    ],
+    "explanation": "12 + 11 = 23, ale žáků je jen 20. Tři žáky jsme započítali dvakrát – ti mají psa i kočku."
+  },
+  {
+    "category": "Logický úsudek",
+    "difficulty": 1,
+    "question": "Tomáš je starší než Vojta. Vojta je starší než Zdeněk.\n\nJe Tomáš starší než Zdeněk?",
+    "options": [
+      "Ano",
+      "Ne",
+      "Nelze rozhodnout"
+    ],
+    "answer": "Ano",
+    "explanation": "Vztah „být starší“ je tranzitivní: Tomáš > Vojta > Zdeněk, tedy Tomáš je starší než Zdeněk."
+  }
+]

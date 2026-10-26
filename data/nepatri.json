@@ -1,0 +1,801 @@
+[
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "kos",
+      "pes",
+      "kráva",
+      "kočka"
+    ],
+    "answer": "kos",
+    "explanation": "Kos je pták, ostatní jsou savci."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "hruška",
+      "jablko",
+      "švestka",
+      "cibule"
+    ],
+    "answer": "cibule",
+    "explanation": "Cibule je zelenina, ostatní jsou ovoce."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "šroubovák",
+      "kladivo",
+      "vidlička",
+      "pila"
+    ],
+    "answer": "vidlička",
+    "explanation": "Vidlička je příbor, ostatní jsou řemeslnické nástroje."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "Vídeň",
+      "Ostrava",
+      "Liberec",
+      "Brno"
+    ],
+    "answer": "Vídeň",
+    "explanation": "Vídeň leží v Rakousku, ostatní města jsou v Česku."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "židle",
+      "postel",
+      "stůl",
+      "hrnek"
+    ],
+    "answer": "hrnek",
+    "explanation": "Hrnek je nádobí, ostatní jsou kusy nábytku."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "netopýr",
+      "orel",
+      "sokol",
+      "jestřáb"
+    ],
+    "answer": "netopýr",
+    "explanation": "Netopýr je savec, ostatní jsou dravci (ptáci)."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Které číslo nepatří do skupiny?",
+    "options": [
+      "8",
+      "9",
+      "6",
+      "4",
+      "2"
+    ],
+    "answer": "9",
+    "explanation": "Číslo 9 je liché, ostatní jsou sudá."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Které číslo nepatří do skupiny?",
+    "options": [
+      "25",
+      "35",
+      "52",
+      "45",
+      "15"
+    ],
+    "answer": "52",
+    "explanation": "Číslo 52 není dělitelné pěti (ostatní končí pětkou)."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "K",
+      "A",
+      "I",
+      "O",
+      "E"
+    ],
+    "answer": "K",
+    "explanation": "K je souhláska, ostatní písmena jsou samohlásky."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "běžet",
+      "skákat",
+      "rychlý",
+      "plavat"
+    ],
+    "answer": "rychlý",
+    "explanation": "Rychlý je přídavné jméno, ostatní slova jsou slovesa."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "prosinec",
+      "jaro",
+      "podzim",
+      "léto"
+    ],
+    "answer": "prosinec",
+    "explanation": "Prosinec je měsíc, ostatní jsou roční období."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "kilometr",
+      "kilogram",
+      "metr",
+      "centimetr"
+    ],
+    "answer": "kilogram",
+    "explanation": "Kilogram je jednotka hmotnosti, ostatní jsou jednotky délky."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "Vltava",
+      "Labe",
+      "Morava",
+      "Sněžka"
+    ],
+    "answer": "Sněžka",
+    "explanation": "Sněžka je hora, ostatní jsou řeky."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "Beethoven",
+      "Bach",
+      "Picasso",
+      "Mozart"
+    ],
+    "answer": "Picasso",
+    "explanation": "Picasso byl malíř, ostatní byli hudební skladatelé."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "lev",
+      "krokodýl",
+      "slon",
+      "žirafa"
+    ],
+    "answer": "krokodýl",
+    "explanation": "Krokodýl je plaz, ostatní jsou savci."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "dub",
+      "tulipán",
+      "karafiát",
+      "růže"
+    ],
+    "answer": "dub",
+    "explanation": "Dub je strom, ostatní jsou květiny."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "ucho",
+      "oko",
+      "loket",
+      "nos"
+    ],
+    "answer": "loket",
+    "explanation": "Loket je na ruce, ostatní jsou smyslové orgány na hlavě."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Které číslo nepatří do skupiny?",
+    "options": [
+      "33",
+      "56",
+      "44",
+      "11",
+      "22"
+    ],
+    "answer": "56",
+    "explanation": "Číslo 56 není násobkem 11, ostatní ano."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "T",
+      "Č",
+      "Ř",
+      "Š",
+      "Ž"
+    ],
+    "answer": "T",
+    "explanation": "Písmeno T nemá háček, ostatní ano."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "stůl",
+      "auto",
+      "ucho",
+      "okno"
+    ],
+    "answer": "stůl",
+    "explanation": "Stůl začíná i končí souhláskou a je jednoslabičný; ostatní slova začínají i končí samohláskou."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "veselý",
+      "smutný",
+      "šťastný",
+      "zelený"
+    ],
+    "answer": "zelený",
+    "explanation": "Zelený označuje barvu, ostatní slova vyjadřují náladu."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "zubař",
+      "pediatr",
+      "chirurg",
+      "advokát"
+    ],
+    "answer": "advokát",
+    "explanation": "Advokát je právník, ostatní jsou lékaři."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "rak",
+      "štika",
+      "pstruh",
+      "kapr"
+    ],
+    "answer": "rak",
+    "explanation": "Rak je korýš, ostatní jsou ryby."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 1,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "kuře",
+      "kráva",
+      "tele",
+      "sele"
+    ],
+    "answer": "kráva",
+    "explanation": "Kráva je dospělé zvíře, ostatní jsou mláďata."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "pozoun",
+      "trubka",
+      "tuba",
+      "housle"
+    ],
+    "answer": "housle",
+    "explanation": "Housle jsou strunný nástroj, ostatní jsou žesťové dechové nástroje."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Které číslo nepatří do skupiny?",
+    "options": [
+      "20",
+      "16",
+      "9",
+      "25",
+      "4"
+    ],
+    "answer": "20",
+    "explanation": "Číslo 20 není druhou mocninou celého čísla (4 = 2², 9 = 3², 16 = 4², 25 = 5²)."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "Venuše",
+      "Mars",
+      "Měsíc",
+      "Merkur"
+    ],
+    "answer": "Měsíc",
+    "explanation": "Měsíc je přirozená družice Země, ostatní jsou planety."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Které číslo nepatří do skupiny?",
+    "options": [
+      "19",
+      "23",
+      "13",
+      "21",
+      "17"
+    ],
+    "answer": "21",
+    "explanation": "21 = 3 · 7 není prvočíslo, ostatní čísla jsou prvočísla."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Které číslo nepatří do skupiny?",
+    "options": [
+      "30",
+      "12",
+      "32",
+      "24",
+      "18"
+    ],
+    "answer": "32",
+    "explanation": "Číslo 32 není dělitelné šesti, ostatní jsou násobky šesti."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "hlasitě",
+      "tichý",
+      "rychle",
+      "pomalu"
+    ],
+    "answer": "tichý",
+    "explanation": "Tichý je přídavné jméno, ostatní slova jsou příslovce."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "decilitr",
+      "mililitr",
+      "hektolitr",
+      "metr",
+      "litr"
+    ],
+    "answer": "metr",
+    "explanation": "Metr je jednotka délky, ostatní jsou jednotky objemu."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "zlato",
+      "platina",
+      "žula",
+      "stříbro"
+    ],
+    "answer": "žula",
+    "explanation": "Žula je hornina, ostatní jsou drahé kovy."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "Labe",
+      "Rýn",
+      "Dunaj",
+      "Balaton"
+    ],
+    "answer": "Balaton",
+    "explanation": "Balaton je jezero, ostatní jsou řeky."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "Janáček",
+      "Smetana",
+      "Mácha",
+      "Dvořák"
+    ],
+    "answer": "Mácha",
+    "explanation": "Karel Hynek Mácha byl básník, ostatní byli hudební skladatelé."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "tuleň",
+      "žralok",
+      "velryba",
+      "delfín"
+    ],
+    "answer": "žralok",
+    "explanation": "Žralok je ryba, ostatní jsou savci."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "pavouk",
+      "včela",
+      "moucha",
+      "mravenec"
+    ],
+    "answer": "pavouk",
+    "explanation": "Pavouk je pavoukovec s osmi nohama, ostatní jsou hmyz se šesti nohama."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "borovice",
+      "jedle",
+      "smrk",
+      "bříza"
+    ],
+    "answer": "bříza",
+    "explanation": "Bříza je listnatý strom, ostatní jsou jehličnany."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "dusík",
+      "voda",
+      "kyslík",
+      "vodík"
+    ],
+    "answer": "voda",
+    "explanation": "Voda je sloučenina, ostatní jsou chemické prvky."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "Barcelona",
+      "Řím",
+      "Madrid",
+      "Paříž"
+    ],
+    "answer": "Barcelona",
+    "explanation": "Barcelona není hlavní město státu, ostatní ano."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Které číslo nepatří do skupiny?",
+    "options": [
+      "454",
+      "232",
+      "343",
+      "567",
+      "121"
+    ],
+    "answer": "567",
+    "explanation": "567 se nečte zepředu i zezadu stejně (není palindrom), ostatní ano."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Který zlomek nepatří do skupiny?",
+    "options": [
+      "4/8",
+      "3/6",
+      "1/2",
+      "2/4",
+      "5/9"
+    ],
+    "answer": "5/9",
+    "explanation": "Zlomek 5/9 se nerovná jedné polovině, ostatní ano."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Který zápis nepatří do skupiny?",
+    "options": [
+      "2/8",
+      "0,5",
+      "25 %",
+      "0,25",
+      "1/4"
+    ],
+    "answer": "0,5",
+    "explanation": "0,5 je polovina, ostatní zápisy vyjadřují jednu čtvrtinu."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Které číslo nepatří do skupiny?",
+    "options": [
+      "70",
+      "54",
+      "36",
+      "63",
+      "45"
+    ],
+    "answer": "70",
+    "explanation": "Číslo 70 není násobkem devíti (ciferný součet 7), ostatní ano."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Které číslo nepatří do skupiny?",
+    "options": [
+      "4",
+      "16",
+      "8",
+      "2",
+      "24"
+    ],
+    "answer": "24",
+    "explanation": "Číslo 24 není mocninou dvojky, ostatní ano (2, 4, 8, 16)."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Co nepatří do skupiny? (Uvažuj abecedu bez písmen s diakritikou a bez CH.)",
+    "options": [
+      "BCD",
+      "FGH",
+      "KLM",
+      "PRS"
+    ],
+    "answer": "PRS",
+    "explanation": "V trojici PRS chybí mezi P a R písmeno Q, ostatní trojice jdou v abecedě přímo za sebou."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "doma",
+      "dnes",
+      "včera",
+      "zítra"
+    ],
+    "answer": "doma",
+    "explanation": "Doma je příslovce místa, ostatní jsou příslovce času."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "led",
+      "voda",
+      "olej",
+      "pára"
+    ],
+    "answer": "olej",
+    "explanation": "Led, pára a voda jsou skupenství téže látky (vody), olej je jiná látka."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 2,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "kohout",
+      "slepice",
+      "beran",
+      "býk"
+    ],
+    "answer": "slepice",
+    "explanation": "Slepice je samice, ostatní jsou samci."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 3,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "rotor",
+      "radar",
+      "kajak",
+      "lampa"
+    ],
+    "answer": "lampa",
+    "explanation": "Lampa není palindrom; ostatní slova se čtou zepředu i zezadu stejně."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 3,
+    "question": "Které číslo nepatří do skupiny?",
+    "options": [
+      "37",
+      "49",
+      "41",
+      "43",
+      "31"
+    ],
+    "answer": "49",
+    "explanation": "49 = 7 · 7 není prvočíslo, ostatní jsou prvočísla."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 3,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "bronz",
+      "železo",
+      "mosaz",
+      "ocel"
+    ],
+    "answer": "železo",
+    "explanation": "Železo je chemický prvek, ostatní jsou slitiny."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 3,
+    "question": "Které číslo nepatří do skupiny?",
+    "options": [
+      "64",
+      "8",
+      "1",
+      "27",
+      "100"
+    ],
+    "answer": "100",
+    "explanation": "Číslo 100 není třetí mocninou celého čísla (1 = 1³, 8 = 2³, 27 = 3³, 64 = 4³)."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 3,
+    "question": "Které číslo nepatří do skupiny?",
+    "options": [
+      "54",
+      "35",
+      "44",
+      "26",
+      "17"
+    ],
+    "answer": "54",
+    "explanation": "Ciferný součet čísla 54 je 9, u ostatních je 8 (ostatní čísla také tvoří řadu s krokem 9)."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 3,
+    "question": "Co nepatří do skupiny? (Uvažuj abecedu bez písmen s diakritikou a bez CH.)",
+    "options": [
+      "AC",
+      "EH",
+      "CE",
+      "DF",
+      "BD"
+    ],
+    "answer": "EH",
+    "explanation": "V ostatních dvojicích je mezi písmeny vynecháno právě jedno písmeno, u EH dvě (F, G)."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 3,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "podmět",
+      "podstatné jméno",
+      "přídavné jméno",
+      "sloveso"
+    ],
+    "answer": "podmět",
+    "explanation": "Podmět je větný člen, ostatní jsou slovní druhy."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 3,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "gigabajt",
+      "megabajt",
+      "megahertz",
+      "kilobajt"
+    ],
+    "answer": "megahertz",
+    "explanation": "Megahertz je jednotka frekvence, ostatní jsou jednotky množství dat."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 3,
+    "question": "Které číslo nepatří do skupiny?",
+    "options": [
+      "15",
+      "29",
+      "22",
+      "35",
+      "8"
+    ],
+    "answer": "35",
+    "explanation": "Ostatní čísla dávají po dělení sedmi zbytek 1 (řada s krokem 7: 8, 15, 22, 29, 36), 35 je dělitelné sedmi beze zbytku."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 3,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "veverka",
+      "koala",
+      "klokan",
+      "vačice"
+    ],
+    "answer": "veverka",
+    "explanation": "Veverka je hlodavec, ostatní jsou vačnatci."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 3,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "mrkev",
+      "okurka",
+      "rajče",
+      "paprika"
+    ],
+    "answer": "mrkev",
+    "explanation": "U mrkve jíme kořen, u ostatních plod."
+  },
+  {
+    "category": "Co nepatří",
+    "difficulty": 3,
+    "question": "Co nepatří do skupiny?",
+    "options": [
+      "rtuť",
+      "zlato",
+      "olovo",
+      "stříbro"
+    ],
+    "answer": "rtuť",
+    "explanation": "Rtuť je za běžné teploty kapalná, ostatní kovy jsou pevné."
+  }
+]

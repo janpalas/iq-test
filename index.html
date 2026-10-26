@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Procvičování IQ úloh</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="card">
+    <header class="meta">
+      <span id="category" class="category"></span>
+      <span id="difficulty" class="difficulty"></span>
+    </header>
+
+    <div id="question" class="question"></div>
+
+    <div id="options" class="options" hidden></div>
+
+    <form id="text-form" class="text-form" hidden autocomplete="off">
+      <input id="text-answer" type="text" placeholder="Napiš odpověď…" aria-label="Odpověď">
+      <button type="submit">Odpovědět</button>
+    </form>
+
+    <section id="feedback" class="feedback" hidden>
+      <p id="verdict" class="verdict"></p>
+      <p id="correct-answer" class="correct-answer" hidden></p>
+      <details id="explanation-box" class="explanation">
+        <summary>Zdůvodnění</summary>
+        <p id="explanation"></p>
+      </details>
+    </section>
+
+    <footer class="actions">
+      <button id="skip" type="button" class="secondary">Přeskočit</button>
+      <button id="next" type="button" hidden>Další úloha →</button>
+    </footer>
+  </main>
+
+  <script src="tasks.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

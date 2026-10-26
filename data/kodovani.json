@@ -1,0 +1,430 @@
+[
+  {
+    "category": "Kódování a slova",
+    "difficulty": 1,
+    "question": "Je-li slovo DOM zapsáno jako EPN, jak bude zapsáno slovo LES? (Používá se anglická abeceda A–Z bez diakritiky.)",
+    "answer": "MFT",
+    "explanation": "Každé písmeno je nahrazeno písmenem, které za ním v abecedě následuje: L→M, E→F, S→T."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 1,
+    "question": "Je-li VODA zapsána jako XQFC, jak bude zapsán MOST? (Používá se anglická abeceda A–Z bez diakritiky.)",
+    "options": [
+      "NPTU",
+      "OQVU",
+      "OQUV",
+      "PRWX"
+    ],
+    "answer": "OQUV",
+    "explanation": "Každé písmeno je posunuto o 2 místa dopředu v abecedě: M→O, O→Q, S→U, T→V."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 2,
+    "question": "Je-li KRAVA zapsána jako JQZUZ, jak bude zapsán SLON? (Používá se anglická abeceda A–Z bez diakritiky.)",
+    "answer": "RKNM",
+    "explanation": "Každé písmeno je nahrazeno písmenem předcházejícím (A přechází cyklicky na Z): S→R, L→K, O→N, N→M."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 1,
+    "question": "Je-li PES zapsán jako SHV, jak bude zapsán VLAK? (Používá se anglická abeceda A–Z bez diakritiky.)",
+    "options": [
+      "YODN",
+      "XNCM",
+      "ZPEO",
+      "YNDO"
+    ],
+    "answer": "YODN",
+    "explanation": "Každé písmeno je posunuto o 3 místa dopředu: V→Y, L→O, A→D, K→N."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 2,
+    "question": "V tajné zprávě je MAPA zapsána jako PDSD. Které slovo je stejnou šifrou zapsáno jako CLPD? (Používá se anglická abeceda A–Z bez diakritiky.)",
+    "answer": "ZIMA",
+    "explanation": "Šifra posouvá písmena o 3 místa dopředu (cyklicky). Zpětným posunem o 3 dostaneme C→Z, L→I, P→M, D→A, tedy ZIMA."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 2,
+    "question": "V šifře se abeceda zrcadlí: A↔Z, B↔Y, C↔X atd. Slovo LES se tak zapíše jako OVH. Jak se zapíše KOLO? (Používá se anglická abeceda A–Z bez diakritiky.)",
+    "options": [
+      "OLPL",
+      "LPLP",
+      "PMOM",
+      "PLOL"
+    ],
+    "answer": "PLOL",
+    "explanation": "Každé písmeno nahradíme písmenem ve stejné vzdálenosti od opačného konce abecedy: K→P, O→L, L→O, O→L."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 3,
+    "question": "V šifře se abeceda zrcadlí: A↔Z, B↔Y, C↔X atd. Které zvíře je zapsáno jako HLEZ? (Používá se anglická abeceda A–Z bez diakritiky.)",
+    "answer": "SOVA",
+    "explanation": "Zrcadlení je samo sobě inverzní: H→S, L→O, E→V, Z→A, takže HLEZ znamená SOVA."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 1,
+    "question": "Je-li KAPR zapsán jako RPAK, jak bude zapsán SLON?",
+    "options": [
+      "LSNO",
+      "NOLS",
+      "SNOL",
+      "NLOS"
+    ],
+    "answer": "NOLS",
+    "explanation": "Slovo se zapisuje pozpátku."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 3,
+    "question": "Je-li PES zapsán jako TFQ, jak bude zapsána LAMA? (Používá se anglická abeceda A–Z bez diakritiky.)",
+    "answer": "BNBM",
+    "explanation": "Slovo se napíše pozpátku (PES → SEP) a každé písmeno se posune o jedno dál (SEP → TFQ). LAMA → AMAL → BNBM."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 1,
+    "question": "Každé písmeno je nahrazeno svým pořadím v abecedě (A = 1, B = 2, …, Z = 26). PES je tak zapsán jako 16-5-19. Jak bude zapsán KOS? (Používá se anglická abeceda A–Z bez diakritiky.)",
+    "answer": "11-15-19",
+    "accept": [
+      "11 15 19",
+      "11, 15, 19",
+      "111519",
+      "11-15-19"
+    ],
+    "explanation": "K je 11. písmeno, O 15. a S 19. písmeno abecedy."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 2,
+    "question": "Hodnota slova je součet pořadí jeho písmen v abecedě (A = 1, …, Z = 26). Například OKO = 15 + 11 + 15 = 41. Jakou hodnotu má slovo LES? (Používá se anglická abeceda A–Z bez diakritiky.)",
+    "answer": "36",
+    "explanation": "L = 12, E = 5, S = 19, součet je 36."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 2,
+    "question": "Písmena jsou číslována od konce abecedy: Z = 1, Y = 2, …, A = 26. Jak se zapíše slovo KOZA? (Používá se anglická abeceda A–Z bez diakritiky.)",
+    "options": [
+      "11-15-26-1",
+      "15-12-1-26",
+      "16-12-1-26",
+      "16-11-1-26"
+    ],
+    "answer": "16-12-1-26",
+    "explanation": "K je 11. písmeno, od konce tedy 27 − 11 = 16; O → 12, Z → 1, A → 26."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 3,
+    "question": "Je-li MAMA zapsána jako NZNZ, jak bude zapsána RYBA? (Používá se anglická abeceda A–Z bez diakritiky.)",
+    "answer": "SXCZ",
+    "explanation": "Písmena na lichých pozicích se posouvají o 1 dopředu, na sudých o 1 dozadu (A → Z). R→S, Y→X, B→C, A→Z."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 3,
+    "question": "Je-li PES zapsán jako QGV, jak bude zapsán KOS? (Používá se anglická abeceda A–Z bez diakritiky.)",
+    "options": [
+      "LQV",
+      "LPT",
+      "MQU",
+      "LRV"
+    ],
+    "answer": "LQV",
+    "explanation": "První písmeno se posune o 1, druhé o 2, třetí o 3 místa: K→L, O→Q, S→V."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 2,
+    "question": "Je-li VODA zapsána jako OVAD, jak bude zapsána SOVA?",
+    "answer": "OSAV",
+    "explanation": "V každé dvojici písmen se písmena prohodí: SO → OS, VA → AV."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 1,
+    "question": "V kódu jsou samohlásky nahrazeny čísly: A = 1, E = 2, I = 3, O = 4, U = 5. Slovo LES se zapíše jako L2S. Jak se zapíše MORAVA?",
+    "answer": "M4R1V1",
+    "explanation": "Souhlásky zůstávají, O se nahradí 4 a každé A číslem 1."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 1,
+    "question": "V šifře se každé písmeno nahrazuje písmenem, které po něm v abecedě následuje. Které slovo je zašifrováno jako LPMP? (Používá se anglická abeceda A–Z bez diakritiky.)",
+    "options": [
+      "JOLO",
+      "MQNQ",
+      "KOMO",
+      "KOLO"
+    ],
+    "answer": "KOLO",
+    "explanation": "Stačí každé písmeno posunout o jedno zpět: L→K, P→O, M→L, P→O."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 3,
+    "question": "V kódu je MAPA zapsána jako 26-2-32-2. Které slovo je zapsáno jako 38-30-44-2? (Používá se anglická abeceda A–Z bez diakritiky.)",
+    "answer": "SOVA",
+    "explanation": "Každé písmeno je nahrazeno dvojnásobkem svého pořadí v abecedě. Po vydělení dvěma dostaneme 19-15-22-1, tedy S, O, V, A."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 3,
+    "question": "V šifře se každé písmeno posouvá dopředu o tolik míst, kolik písmen má celé slovo. OKO se tak zapíše jako RNR. Jak se zapíše VLAK? (Používá se anglická abeceda A–Z bez diakritiky.)",
+    "answer": "ZPEO",
+    "explanation": "VLAK má 4 písmena, posouváme tedy o 4: V→Z, L→P, A→E, K→O."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 1,
+    "question": "Přeskládej písmena slova LAMPA tak, aby vznikl název stromu.",
+    "answer": "PALMA",
+    "explanation": "Ze stejných písmen L, A, M, P, A vznikne slovo PALMA."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 2,
+    "question": "Přeskládej písmena slova KOSTEL tak, aby vznikl název kusu nábytku.",
+    "answer": "STOLEK",
+    "explanation": "Slova KOSTEL a STOLEK obsahují přesně stejná písmena."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 1,
+    "question": "Přeskládej písmena slova LÁSKA tak, aby vznikl název skalního útvaru v horách.",
+    "answer": "SKÁLA",
+    "explanation": "Ze stejných písmen L, Á, S, K, A vznikne slovo SKÁLA."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 1,
+    "question": "Přeskládej písmena slova KAPR tak, aby vzniklo místo ve městě, kde jsou stromy a lavičky.",
+    "answer": "PARK",
+    "explanation": "KAPR a PARK obsahují stejná písmena K, A, P, R."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 2,
+    "question": "Přeskládej písmena slova LOKET tak, aby vznikl název velké nádoby na vaření nebo topení.",
+    "answer": "KOTEL",
+    "explanation": "Slova LOKET a KOTEL obsahují stejná písmena L, O, K, E, T."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 1,
+    "question": "Která skupina písmen NENÍ přesmyčkou názvu zvířete?",
+    "options": [
+      "LESO",
+      "MOTS",
+      "ZAKO",
+      "RYGT"
+    ],
+    "answer": "MOTS",
+    "explanation": "LESO je OSEL, ZAKO je KOZA, RYGT je TYGR, ale MOTS je přesmyčka slova MOST."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 2,
+    "question": "Přeskládej písmena NOLKAK tak, aby vznikl název zvířete.",
+    "answer": "KLOKAN",
+    "explanation": "Z písmen N, O, L, K, A, K vznikne KLOKAN."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 2,
+    "question": "Přeskládej písmena VERKAVE tak, aby vznikl název zvířete.",
+    "answer": "VEVERKA",
+    "explanation": "Z písmen V, E, R, K, A, V, E vznikne VEVERKA."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 2,
+    "question": "Přeskládej písmena LUCOOMO tak, aby vznikl název českého (moravského) města.",
+    "answer": "OLOMOUC",
+    "explanation": "Z písmen L, U, C, O, O, M, O vznikne OLOMOUC."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 2,
+    "question": "Která skupina písmen NENÍ přesmyčkou názvu ovoce?",
+    "options": [
+      "KOLJAB",
+      "ŠKURAH",
+      "TOLAPA",
+      "NÁBAN"
+    ],
+    "answer": "TOLAPA",
+    "explanation": "KOLJAB je JABLKO, ŠKURAH je HRUŠKA, NÁBAN je BANÁN, ale TOLAPA je LOPATA."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 1,
+    "question": "Ve větě je ukryt název zvířete (přes hranice slov, bez ohledu na mezery). Které zvíře to je?\n„Viděl jsem Karla Mareše.“",
+    "answer": "lama",
+    "explanation": "Zvíře je ukryto v části „kar-LA MA-reše“."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 1,
+    "question": "Ve větě je ukryt název zvířete (přes hranice slov, bez ohledu na mezery). Které zvíře to je?\n„Moje auto se lesklo.“",
+    "answer": "osel",
+    "explanation": "Zvíře je ukryto v části „aut-O SE L-esklo“."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 2,
+    "question": "Ve větě je ukryt název zvířete (přes hranice slov, bez ohledu na mezery). Které zvíře to je?\n„Vojáci město tak rabovali, že nic nezbylo.“",
+    "answer": "krab",
+    "explanation": "Zvíře je ukryto v části „ta-K RAB-ovali“."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 2,
+    "question": "Ve větě je ukryt název zvířete (přes hranice slov, bez ohledu na mezery). Které zvíře to je?\n„Ten nový stůl evidentně vrže.“",
+    "answer": "lev",
+    "explanation": "Zvíře je ukryto v části „stů-L EV-identně“."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 2,
+    "question": "Ve větě je ukryt název zvířete (přes hranice slov, bez ohledu na mezery). Které zvíře to je?\n„Dej si na zub rohlík.“",
+    "answer": "zubr",
+    "explanation": "Zvíře je ukryto v části „ZUB R-ohlík“."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 3,
+    "question": "Ve větě je ukryt název zvířete (přes hranice slov, bez ohledu na mezery). Které zvíře to je?\n„Dal jsem si mléko za tři koruny.“",
+    "answer": "koza",
+    "explanation": "Zvíře je ukryto v části „mlé-KO ZA“."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 1,
+    "question": "Které písmeno doplníš místo otazníku, aby vzniklo slovo zakončené tímto písmenem a zároveň slovo jím začínající?\nSLO(?)OHA",
+    "answer": "N",
+    "explanation": "Doplněním písmene N vzniknou slova SLON a NOHA."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 1,
+    "question": "Které písmeno doplníš místo otazníku, aby vzniklo slovo zakončené tímto písmenem a zároveň slovo jím začínající?\nPTÁ(?)OST",
+    "answer": "K",
+    "explanation": "Doplněním písmene K vzniknou slova PTÁK a KOST."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 1,
+    "question": "Které písmeno doplníš místo otazníku, aby vzniklo slovo zakončené tímto písmenem a zároveň slovo jím začínající?\nSÝ(?)YBA",
+    "answer": "R",
+    "explanation": "Doplněním písmene R vzniknou slova SÝR a RYBA."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 1,
+    "question": "Které písmeno doplníš místo otazníku, aby vzniklo slovo zakončené tímto písmenem a zároveň slovo jím začínající?\nSTŮ(?)IST",
+    "answer": "L",
+    "explanation": "Doplněním písmene L vzniknou slova STŮL a LIST."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 2,
+    "question": "Které písmeno doplníš místo otazníku, aby vzniklo slovo zakončené tímto písmenem a zároveň slovo jím začínající?\nHRA(?)OST",
+    "answer": "D",
+    "explanation": "Doplněním písmene D vzniknou slova HRAD a DOST."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 2,
+    "question": "Doplň místo otazníků dvě písmena tak, aby první slovo končilo a druhé začínalo právě jimi.\nRY(??)NÁN",
+    "answer": "BA",
+    "explanation": "Doplněním BA vzniknou slova RYBA a BANÁN."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 3,
+    "question": "Doplň místo otazníků dvě písmena tak, aby první slovo končilo a druhé začínalo právě jimi.\nMLÉ(??)ZA",
+    "answer": "KO",
+    "explanation": "Doplněním KO vzniknou slova MLÉKO a KOZA."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 3,
+    "question": "Doplň místo otazníků dvě písmena tak, aby první slovo končilo a druhé začínalo právě jimi.\nPO(??)DEN",
+    "answer": "LE",
+    "explanation": "Doplněním LE vzniknou slova POLE a LEDEN."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 1,
+    "question": "Které krátké české slovo lze napsat PŘED každou z následujících skupin písmen, aby vznikla tři česká slova?\n…BĚŽKA, …TOČ, …VRAT",
+    "answer": "KOLO",
+    "explanation": "Vzniknou slova KOLOBĚŽKA, KOLOTOČ, KOLOVRAT.",
+    "options": [
+      "KOLO",
+      "PRO",
+      "ROZ",
+      "PŘÍ"
+    ]
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 2,
+    "question": "Které krátké české slovo lze napsat PŘED každou z následujících skupin písmen, aby vznikla tři česká slova?\n…ANDULE, …NÝ, …HART",
+    "answer": "LEV",
+    "explanation": "Vzniknou slova LEVANDULE, LEVNÝ, LEVHART."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 2,
+    "question": "Které krátké české slovo lze napsat PŘED každou z následujících skupin písmen, aby vznikla tři česká slova?\n…TEL, …MOS, …TKA",
+    "answer": "KOS",
+    "explanation": "Vzniknou slova KOSTEL, KOSMOS, KOSTKA."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 2,
+    "question": "Které krátké české slovo lze napsat PŘED každou z následujících skupin písmen, aby vznikla tři česká slova?\n…ETA, …RELA, …ARONY",
+    "answer": "MAK",
+    "explanation": "Vzniknou slova MAKETA, MAKRELA, MAKARONY.",
+    "options": [
+      "PAK",
+      "LAK",
+      "SAK",
+      "MAK"
+    ]
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 3,
+    "question": "Které krátké české slovo lze napsat PŘED každou z následujících skupin písmen, aby vznikla tři česká slova?\n…TRÝ, …IMISTA, …TÍK",
+    "answer": "PES",
+    "explanation": "Vzniknou slova PESTRÝ, PESIMISTA, PESTÍK."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 3,
+    "question": "Které krátké české slovo lze napsat PŘED každou z následujících skupin písmen, aby vznikla tři česká slova?\n…ÁT, …ZACE, …IOR",
+    "answer": "SEN",
+    "explanation": "Vzniknou slova SENÁT, SENZACE, SENIOR."
+  },
+  {
+    "category": "Kódování a slova",
+    "difficulty": 3,
+    "question": "Které krátké české slovo lze napsat ZA každou z následujících skupin písmen, aby vznikla tři česká slova?\nVÝ…, Ú…, PRO…",
+    "options": [
+      "MOL",
+      "ROK",
+      "HON",
+      "NOS"
+    ],
+    "answer": "ROK",
+    "explanation": "Vzniknou slova VÝROK, ÚROK a PROROK."
+  }
+]

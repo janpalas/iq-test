@@ -1,0 +1,708 @@
+[
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 1,
+    "question": "Jaký úhel (menší z obou) svírají hodinová a minutová ručička ve 3:00?",
+    "options": [
+      "45°",
+      "180°",
+      "120°",
+      "90°"
+    ],
+    "answer": "90°",
+    "explanation": "Ve 3:00 ukazuje minutová ručička na 12 a hodinová na 3, což jsou tři dílky po 30°, tedy 90°."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Jaký menší úhel ve stupních svírají ručičky hodin v 9:30?",
+    "answer": "105",
+    "accept": [
+      "105°",
+      "105 stupňů"
+    ],
+    "explanation": "Minutová ručička je na 180°, hodinová na 9 · 30° + 30 · 0,5° = 285°. Rozdíl je 105°."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Jaký menší úhel svírají ručičky hodin ve 2:20?",
+    "options": [
+      "50°",
+      "60°",
+      "40°",
+      "70°"
+    ],
+    "answer": "50°",
+    "explanation": "Minutová ručička je na 120°, hodinová na 2 · 30° + 20 · 0,5° = 70°. Rozdíl je 50°."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 3,
+    "question": "Jaký menší úhel ve stupních svírají ručičky hodin v 7:40?",
+    "answer": "10",
+    "accept": [
+      "10°",
+      "10 stupňů"
+    ],
+    "explanation": "Minutová ručička je na 240°, hodinová na 7 · 30° + 40 · 0,5° = 230°. Rozdíl je 10°."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 3,
+    "question": "Jaký menší úhel ve stupních svírají ručičky hodin ve 4:50?",
+    "answer": "155",
+    "accept": [
+      "155°",
+      "155 stupňů"
+    ],
+    "explanation": "Minutová ručička je na 300°, hodinová na 4 · 30° + 50 · 0,5° = 145°. Rozdíl je 155°."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 3,
+    "question": "Kolikrát za 12 hodin (od 12:00 do 12:00, bez počítání okrajů) svírají ručičky hodin přesně pravý úhel?",
+    "answer": "22",
+    "accept": [
+      "22krát",
+      "22x"
+    ],
+    "explanation": "Minutová ručička předběhne hodinovou za 12 hodin 11krát a během každého takového oběhu svírají pravý úhel dvakrát, tedy 22krát."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Ručičkové hodiny bez číslic vidíš v zrcadle a zdá se ti, že ukazují 3:15. Kolik je ve skutečnosti hodin?",
+    "options": [
+      "9:45",
+      "3:45",
+      "8:45",
+      "9:15"
+    ],
+    "answer": "8:45",
+    "explanation": "Skutečný čas a čas v zrcadle dávají dohromady 12:00 (11:60). 11:60 − 3:15 = 8:45."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Na zrcadlovém obrazu ručičkových hodin vidíš čas 2:30. Kolik je skutečně hodin? Odpověz ve tvaru h:mm.",
+    "answer": "9:30",
+    "accept": [
+      "9.30",
+      "09:30",
+      "21:30"
+    ],
+    "explanation": "Skutečný a zrcadlový čas dávají dohromady 12:00, takže 12:00 − 2:30 = 9:30."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Ručičkové hodiny v zrcadle ukazují 10:10. Kolik je ve skutečnosti hodin?",
+    "options": [
+      "2:10",
+      "1:50",
+      "10:50",
+      "1:10"
+    ],
+    "answer": "1:50",
+    "explanation": "Skutečný čas = 11:60 − 10:10 = 1:50."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 1,
+    "question": "Ve kterém z uvedených časů vypadají ručičkové hodiny v zrcadle stejně jako ve skutečnosti?",
+    "options": [
+      "6:00",
+      "9:00",
+      "3:00",
+      "4:30"
+    ],
+    "answer": "6:00",
+    "explanation": "V 6:00 leží obě ručičky na svislé ose, kterou zrcadlo nezmění."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 1,
+    "question": "Je 9:45. Kolik bude hodin za 2 hodiny a 30 minut? Odpověz ve tvaru hh:mm.",
+    "answer": "12:15",
+    "accept": [
+      "12.15",
+      "12 15"
+    ],
+    "explanation": "9:45 + 2:00 = 11:45 a dalších 30 minut dává 12:15."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Noční vlak vyjel ve 22:50 a jel 3 hodiny 25 minut. V kolik hodin dorazil do cíle? Odpověz ve tvaru h:mm.",
+    "answer": "2:15",
+    "accept": [
+      "02:15",
+      "2.15",
+      "02.15"
+    ],
+    "explanation": "22:50 + 3:00 = 1:50 a dalších 25 minut dává 2:15."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Hodiny se zpožďují o 3 minuty za hodinu. V 8:00 byly nastaveny na přesný čas. Kolik ukazují, když je přesně 16:00?",
+    "options": [
+      "15:24",
+      "15:57",
+      "16:24",
+      "15:36"
+    ],
+    "answer": "15:36",
+    "explanation": "Za 8 hodin se zpozdí o 8 · 3 = 24 minut, ukazují tedy 15:36."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 1,
+    "question": "Kolik minut uplyne od 7:35 do 11:10 téhož dne?",
+    "answer": "215",
+    "accept": [
+      "215 minut",
+      "215 min"
+    ],
+    "explanation": "Od 7:35 do 11:35 jsou 4 hodiny (240 minut), bez 25 minut to je 215 minut."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 1,
+    "question": "Dnes je středa. Jaký den v týdnu bude za 10 dní?",
+    "options": [
+      "pátek",
+      "neděle",
+      "sobota",
+      "čtvrtek"
+    ],
+    "answer": "sobota",
+    "explanation": "10 dní = 1 týden a 3 dny; středa + 3 dny = sobota."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Dnes je pondělí. Jaký den v týdnu bude za 100 dní?",
+    "answer": "středa",
+    "accept": [
+      "streda"
+    ],
+    "explanation": "100 = 14 · 7 + 2, takže jde o pondělí + 2 dny, tedy středu."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Předevčírem byl čtvrtek. Jaký den bude pozítří?",
+    "options": [
+      "pondělí",
+      "úterý",
+      "sobota",
+      "neděle"
+    ],
+    "answer": "pondělí",
+    "explanation": "Když byl předevčírem čtvrtek, dnes je sobota. Pozítří je tedy pondělí."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "1. leden 2025 byl ve středu. Jaký den v týdnu připadl na 1. březen 2025? (Rok 2025 není přestupný.)",
+    "answer": "sobota",
+    "explanation": "Od 1. ledna do 1. března uplyne 31 + 28 = 59 dní, 59 = 8 · 7 + 3, takže středa + 3 dny = sobota."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 3,
+    "question": "15. dubna je pátek. Jaký den v týdnu je 15. června téhož roku?",
+    "options": [
+      "čtvrtek",
+      "pátek",
+      "úterý",
+      "středa"
+    ],
+    "answer": "středa",
+    "explanation": "Mezi daty je 15 + 31 + 15 = 61 dní (duben má 30 dní, květen 31). 61 = 8 · 7 + 5, pátek + 5 dní = středa."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Za tři dny bude neděle. Jaký den byl před čtyřmi dny?",
+    "options": [
+      "pondělí",
+      "neděle",
+      "sobota",
+      "středa"
+    ],
+    "answer": "neděle",
+    "explanation": "Dnes je čtvrtek (neděle − 3 dny). Čtvrtek − 4 dny = neděle."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Rok, který není přestupný, začal v pondělí. Na jaký den v týdnu připadne jeho poslední den, 31. prosinec?",
+    "answer": "pondělí",
+    "accept": [
+      "pondeli"
+    ],
+    "explanation": "31. prosinec je o 364 dní později než 1. leden. 364 = 52 · 7, takže jde opět o pondělí."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 1,
+    "question": "Stojíš čelem k severu. Otočíš se doprava a potom ještě jednou doprava. Kterým směrem se teď díváš?",
+    "options": [
+      "na východ",
+      "na západ",
+      "na jih",
+      "na sever"
+    ],
+    "answer": "na jih",
+    "explanation": "Dvě otočení doprava o 90° dávají otočení o 180°, ze severu na jih."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 1,
+    "question": "Stojíš čelem k západu. Otočíš se doleva a pak se otočíš čelem vzad. Kterým směrem se díváš?",
+    "options": [
+      "na sever",
+      "na západ",
+      "na východ",
+      "na jih"
+    ],
+    "answer": "na sever",
+    "explanation": "Ze západu se otočením doleva dostaneš k jihu, čelem vzad (180°) pak k severu."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Ujdeš 3 km přímo na sever a potom 4 km přímo na východ. Jak daleko (v km) jsi vzdušnou čarou od místa, odkud jsi vyšel?",
+    "answer": "5",
+    "accept": [
+      "5 km",
+      "5km"
+    ],
+    "explanation": "Trasy tvoří odvěsny pravoúhlého trojúhelníku 3 a 4 km, přepona je √(9 + 16) = 5 km."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Ujdeš 5 km na sever, otočíš se doprava a ujdeš 3 km, znovu se otočíš doprava a ujdeš 5 km, nakonec se otočíš doleva a ujdeš 2 km. Kde jsi vzhledem k výchozímu bodu?",
+    "options": [
+      "3 km na východ",
+      "2 km na západ",
+      "5 km na sever",
+      "5 km na východ"
+    ],
+    "answer": "5 km na východ",
+    "explanation": "Po trase sever 5 – východ 3 – jih 5 – východ 2 se severní a jižní úseky vyruší a zbude 3 + 2 = 5 km na východ."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 3,
+    "question": "Stojíš čelem k severovýchodu. Otočíš se o 135° doprava (po směru hodinových ručiček). Kterým směrem se díváš?",
+    "options": [
+      "na jihovýchod",
+      "na jih",
+      "na jihozápad",
+      "na východ"
+    ],
+    "answer": "na jih",
+    "explanation": "Severovýchod odpovídá azimutu 45°, 45° + 135° = 180°, což je jih."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Ráno stojíš tak, že vycházející slunce máš přímo za zády. Kterým směrem ukazuje tvá levá ruka?",
+    "options": [
+      "na sever",
+      "na východ",
+      "na jih",
+      "na západ"
+    ],
+    "answer": "na jih",
+    "explanation": "Slunce vychází na východě, takže se díváš na západ. Když se díváš na západ, levá ruka ukazuje na jih."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 1,
+    "question": "Na běžné hrací kostce je součet čísel na protilehlých stěnách vždy 7. Jaké číslo je na stěně naproti dvojce?",
+    "answer": "5",
+    "accept": [
+      "pět",
+      "petka",
+      "pětka"
+    ],
+    "explanation": "Protilehlé stěny dávají součet 7, takže naproti 2 je 7 − 2 = 5."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Hrací kostka (protilehlé stěny dávají součet 7) leží na stole a nahoře je čtyřka. Jaký je součet čísel na čtyřech bočních stěnách?",
+    "answer": "14",
+    "explanation": "Součet všech stěn je 1 + 2 + … + 6 = 21. Odečteme horní 4 a spodní 3: 21 − 7 = 14."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 1,
+    "question": "Hodíš třemi běžnými hracími kostkami a nahoře padne 2, 5 a 6. Jaký je součet čísel na stěnách, které leží na stole?",
+    "options": [
+      "13",
+      "10",
+      "6",
+      "8"
+    ],
+    "answer": "8",
+    "explanation": "Spodní stěny jsou 7 − 2 = 5, 7 − 5 = 2 a 7 − 6 = 1, jejich součet je 8."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 1,
+    "question": "Na hrací kostce vidíš najednou tři stěny sbíhající se v jednom rohu: 1, 2 a 3. Jaký je součet čísel na třech stěnách, které nevidíš?",
+    "options": [
+      "15",
+      "14",
+      "12",
+      "18"
+    ],
+    "answer": "15",
+    "explanation": "Neviditelné stěny jsou protilehlé k viditelným: 6, 5 a 4, součet 15."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 3,
+    "question": "Hrací kostka (protilehlé stěny dávají součet 7) leží na stole: nahoře je 1, na stěně otočené k tobě je 2. Překlopíš ji o jednu stěnu směrem k sobě (horní stěna se přesune dopředu k tobě). Jaké číslo bude nahoře?",
+    "options": [
+      "2",
+      "6",
+      "5",
+      "3"
+    ],
+    "answer": "5",
+    "explanation": "Při překlopení k sobě se nahoru dostane zadní stěna. Ta je protilehlá k přední stěně s dvojkou, takže je na ní 5."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 1,
+    "question": "Krychle je zvenku celá natřená na červeno a pak rozřezaná na 27 stejných kostiček (3 × 3 × 3). Kolik kostiček nemá žádnou červenou stěnu?",
+    "options": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "answer": "1",
+    "explanation": "Nenatřená zůstane jen kostička přesně uprostřed krychle."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 1,
+    "question": "Natřená krychle je rozřezaná na 27 stejných kostiček (3 × 3 × 3). Kolik kostiček má natřené právě dvě stěny?",
+    "options": [
+      "12",
+      "6",
+      "8",
+      "24"
+    ],
+    "answer": "12",
+    "explanation": "Dvě natřené stěny mají kostičky uprostřed hran. Krychle má 12 hran a na každé je jedna taková kostička."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Natřená krychle je rozřezaná na 64 stejných kostiček (4 × 4 × 4). Kolik kostiček má natřenou právě jednu stěnu?",
+    "answer": "24",
+    "explanation": "Právě jednu natřenou stěnu mají vnitřní kostičky stěn: na každé ze 6 stěn je jich 2 × 2 = 4, celkem 24."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Natřená krychle je rozřezaná na 125 stejných kostiček (5 × 5 × 5). Kolik kostiček nemá žádnou natřenou stěnu?",
+    "answer": "27",
+    "explanation": "Nenatřené kostičky tvoří vnitřní krychli 3 × 3 × 3, tedy 27 kostiček."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 3,
+    "question": "Natřená krychle je rozřezaná na 125 stejných kostiček (5 × 5 × 5). Kolik kostiček má natřené právě dvě stěny?",
+    "options": [
+      "24",
+      "54",
+      "48",
+      "36"
+    ],
+    "answer": "36",
+    "explanation": "Na každé z 12 hran leží kromě dvou rohových ještě 3 kostičky se dvěma natřenými stěnami: 12 · 3 = 36."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 3,
+    "question": "Krychle 3 × 3 × 3 má natřenou pouze horní a spodní stěnu, boky natřené nejsou. Po rozřezání na 27 kostiček: kolik kostiček nemá žádnou natřenou stěnu?",
+    "answer": "9",
+    "explanation": "Natřené jsou jen kostičky horní a dolní vrstvy. Nenatřená zůstane celá prostřední vrstva, 3 × 3 = 9 kostiček."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Čtverec je rozdělený mřížkou na 3 × 3 stejných políček. Kolik čtverců všech velikostí je na obrázku celkem?",
+    "options": [
+      "9",
+      "13",
+      "16",
+      "14"
+    ],
+    "answer": "14",
+    "explanation": "Čtverců 1 × 1 je 9, čtverců 2 × 2 jsou 4 a 3 × 3 je 1, celkem 14."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 3,
+    "question": "Čtverec je rozdělený mřížkou na 4 × 4 stejných políček. Kolik čtverců všech velikostí je na obrázku celkem?",
+    "answer": "30",
+    "explanation": "Čtverců 1 × 1 je 16, 2 × 2 je 9, 3 × 3 jsou 4 a 4 × 4 je 1: celkem 30."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 1,
+    "question": "Trojúhelník je spojnicemi středů svých stran rozdělený na 4 menší shodné trojúhelníky. Kolik trojúhelníků je na obrázku celkem?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "5",
+    "explanation": "Jsou tam 4 malé trojúhelníky a k nim velký trojúhelník celý, tedy 5."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Čtverec je rozdělený oběma úhlopříčkami. Kolik trojúhelníků je na obrázku celkem?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "answer": "8",
+    "explanation": "Úhlopříčky vytvoří 4 malé trojúhelníky a každá úhlopříčka sama dělí čtverec na 2 velké trojúhelníky (2 · 2 = 4). Celkem 8."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 3,
+    "question": "Rovnostranný trojúhelník je rozdělený rovnoběžkami se stranami na 9 malých shodných rovnostranných trojúhelníčků (každá strana je rozdělena na 3 díly). Kolik trojúhelníků všech velikostí je na obrázku?",
+    "options": [
+      "10",
+      "13",
+      "12",
+      "16"
+    ],
+    "answer": "13",
+    "explanation": "Trojúhelníků otočených špičkou nahoru je 6 malých, 3 střední a 1 velký, špičkou dolů jsou 3 malé. Celkem 13."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 1,
+    "question": "Syn sestry mého otce je mi:",
+    "options": [
+      "bratranec",
+      "synovec",
+      "strýc",
+      "bratr"
+    ],
+    "answer": "bratranec",
+    "explanation": "Sestra mého otce je moje teta a její syn je můj bratranec."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 1,
+    "question": "Kým je pro mě dcera bratra mé matky?",
+    "answer": "sestřenice",
+    "accept": [
+      "moje sestřenice",
+      "sestřenka"
+    ],
+    "explanation": "Bratr mé matky je můj strýc a jeho dcera je moje sestřenice."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 1,
+    "question": "Jana je sestra Petra. Tomáš je Petrův syn. Kým je Jana Tomášovi?",
+    "answer": "teta",
+    "accept": [
+      "jeho teta",
+      "tetou"
+    ],
+    "explanation": "Jana je sestra Tomášova otce, je tedy jeho teta."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 1,
+    "question": "Manžel sestry mé matky je mi:",
+    "options": [
+      "švagr",
+      "dědeček",
+      "bratranec",
+      "strýc"
+    ],
+    "answer": "strýc",
+    "explanation": "Sestra mé matky je moje teta a její manžel je můj strýc."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Eva má dva bratry. Každý z jejích bratrů má právě jednu sestru. Kolik dětí mají jejich rodiče?",
+    "answer": "3",
+    "accept": [
+      "tři"
+    ],
+    "explanation": "Jedinou sestrou obou bratrů je sama Eva, takže děti jsou Eva a dva bratři, celkem 3."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 3,
+    "question": "Muž ukazuje na fotografii a říká: „Sourozence nemám, ale otec toho muže na fotce je synem mého otce.“ Kdo je na fotografii?",
+    "options": [
+      "on sám",
+      "jeho syn",
+      "jeho otec",
+      "jeho synovec"
+    ],
+    "answer": "jeho syn",
+    "explanation": "Mluvčí nemá sourozence, takže synem jeho otce je on sám. Otcem muže na fotografii je tedy mluvčí a na fotce je jeho syn."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 3,
+    "question": "Pan Novák je tchánem Jany. Jana je manželkou Karla a jiného manžela nikdy neměla. Kým je pan Novák Karlovi?",
+    "options": [
+      "tchán",
+      "strýc",
+      "otec",
+      "švagr"
+    ],
+    "answer": "otec",
+    "explanation": "Tchán je otec manžela nebo manželky. Janiným manželem je Karel, takže pan Novák je Karlův otec."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 1,
+    "question": "Tři ozubená kola jsou v řadě a každé zabírá do sousedního. První se točí po směru hodinových ručiček. Jak se točí třetí kolo?",
+    "options": [
+      "po směru hodinových ručiček",
+      "proti směru hodinových ručiček",
+      "netočí se",
+      "nelze určit"
+    ],
+    "answer": "po směru hodinových ručiček",
+    "explanation": "Sousední kola se točí opačně, takže druhé se točí proti směru a třetí opět po směru hodinových ručiček."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 1,
+    "question": "Pět ozubených kol je v řadě, každé zabírá do sousedního. První se točí proti směru hodinových ručiček. Jak se točí páté kolo?",
+    "options": [
+      "po směru hodinových ručiček",
+      "netočí se",
+      "střídavě oběma směry",
+      "proti směru hodinových ručiček"
+    ],
+    "answer": "proti směru hodinových ručiček",
+    "explanation": "Směr se střídá s každým kolem, takže všechna lichá kola (1., 3., 5.) se točí stejně jako první."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 3,
+    "question": "Pět ozubených kol je uspořádáno do uzavřeného kruhu tak, že každé zabírá do svých dvou sousedů (a páté zase do prvního). Co se stane, když se pokusíš první kolo roztočit?",
+    "options": [
+      "všechna kola se točí stejným směrem",
+      "soustava se zablokuje",
+      "kola se točí střídavě",
+      "točí se jen lichá kola"
+    ],
+    "answer": "soustava se zablokuje",
+    "explanation": "Sousední kola se musí točit opačně. V kruhu s lichým počtem kol by se první kolo muselo točit oběma směry najednou, takže se soustava zablokuje."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 1,
+    "question": "Velké ozubené kolo se 40 zuby zabírá do malého kola s 10 zuby. Kolik otáček udělá malé kolo, když velké udělá jednu otáčku?",
+    "answer": "4",
+    "accept": [
+      "4 otáčky",
+      "čtyři",
+      "4krát"
+    ],
+    "explanation": "Za jednu otáčku velkého kola projde záběrem 40 zubů, malé kolo se tedy otočí 40 : 10 = 4krát."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Tři ozubená kola A (30 zubů), B (15 zubů) a C (45 zubů) jsou v řadě, A zabírá do B a B do C. Kolik otáček udělá kolo C, když A udělá 3 otáčky?",
+    "answer": "2",
+    "accept": [
+      "2 otáčky",
+      "dvě",
+      "2krát"
+    ],
+    "explanation": "Kolem A projde 3 · 30 = 90 zubů a stejný počet zubů projde i kolem C: 90 : 45 = 2 otáčky. Velikost prostředního kola výsledek neovlivní."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 3,
+    "question": "Máš prázdnou 3litrovou a prázdnou 5litrovou nádobu a neomezený zdroj vody. Jednou operací je naplnění nádoby, vylití nádoby, nebo přelití z jedné nádoby do druhé (dokud se jedna nevyprázdní nebo druhá nenaplní). Kolik nejméně operací potřebuješ, aby v jedné nádobě byly přesně 4 litry?",
+    "answer": "6",
+    "accept": [
+      "6 operací",
+      "šest"
+    ],
+    "explanation": "Naplň 5 l, přelij do 3 l (zbude 2 l), vylij 3 l, přelij 2 l do 3l nádoby, naplň 5 l a dolij 3l nádobu (přejde 1 l), v 5l nádobě zůstanou 4 l. To je 6 operací."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Máš 4litrovou a 6litrovou nádobu bez stupnice a neomezený zdroj vody. Smíš nádoby plnit, vylévat a přelévat mezi sebou. Které množství vody NELZE získat v jedné z nádob?",
+    "options": [
+      "3 l",
+      "4 l",
+      "2 l",
+      "6 l"
+    ],
+    "answer": "3 l",
+    "explanation": "Všechny operace pracují jen se sudými objemy (4 a 6 jsou sudá čísla), takže lichý objem 3 l nikdy nevznikne."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 3,
+    "question": "Máš plnou 8litrovou nádobu a prázdné nádoby 5 l a 3 l, žádné stupnice. Vodu smíš jen přelévat mezi nádobami (nic nevyléváš ani nedoléváš). Kolik nejméně přelití potřebuješ, aby byly v 8l a 5l nádobě přesně 4 litry?",
+    "answer": "7",
+    "accept": [
+      "7 přelití",
+      "sedm"
+    ],
+    "explanation": "Nejkratší postup má 7 přelití, např. (8,0,0) → (3,5,0) → (3,2,3) → (6,2,0) → (6,0,2) → (1,5,2) → (1,4,3) → (4,4,0)."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 2,
+    "question": "Máš 7litrovou a 3litrovou nádobu a neomezený zdroj vody. Jednou operací je naplnění, vylití, nebo přelití vody. Kolik nejméně operací potřebuješ, aby v jedné nádobě byl přesně 1 litr?",
+    "options": [
+      "3",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": "4",
+    "explanation": "Naplň 7 l, přelij do 3 l (zbude 4 l), vylij 3l nádobu, znovu přelij 3 l, v 7l nádobě zůstane 1 l. To jsou 4 operace."
+  },
+  {
+    "category": "Prostorová a praktická představivost",
+    "difficulty": 1,
+    "question": "Ve sklenici je 200 ml šťávy. Polovinu odliješ a doplníš vodou zpět na 200 ml. Pak znovu polovinu odliješ a doplníš vodou. Kolik ml čisté šťávy je ve sklenici?",
+    "answer": "50",
+    "accept": [
+      "50 ml",
+      "50ml"
+    ],
+    "explanation": "Po prvním odlití zbude 100 ml šťávy, po druhém odlití polovina z toho, tedy 50 ml. Doplňovaná voda šťávu nepřidává."
+  }
+]

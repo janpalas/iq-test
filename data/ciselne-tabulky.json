@@ -1,0 +1,212 @@
+[
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 1,
+    "question": "Které číslo patří místo otazníku? Každý řádek je sestaven podle stejného pravidla.\n\n  3     5     8\n  4     6    10\n  7     2     ?",
+    "answer": "9",
+    "explanation": "Třetí číslo v řádku je součtem prvních dvou: 3 + 5 = 8, 4 + 6 = 10, tedy 7 + 2 = 9."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 1,
+    "question": "Které číslo patří místo otazníku? Každý řádek je sestaven podle stejného pravidla.\n\n  2     3     6\n  4     5    20\n  6     7     ?",
+    "answer": "42",
+    "explanation": "Třetí číslo je součinem prvních dvou: 2 · 3 = 6, 4 · 5 = 20, tedy 6 · 7 = 42."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 1,
+    "question": "Které číslo patří místo otazníku? Každý řádek je sestaven podle stejného pravidla.\n\n  9     4     5\n 12     5     7\n 15     6     ?",
+    "answer": "9",
+    "explanation": "Třetí číslo je rozdílem prvních dvou: 9 − 4 = 5, 12 − 5 = 7, tedy 15 − 6 = 9."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 1,
+    "question": "Které číslo patří místo otazníku? Součet čísel v každém řádku i v každém sloupci je stejný.\n\n  4     9     2\n  3     5     7\n  8     1     ?",
+    "answer": "6",
+    "explanation": "Součet každého řádku i sloupce je 15 (např. 4 + 9 + 2 = 15). V posledním řádku 8 + 1 + ? = 15, tedy ? = 6 (kontrola sloupcem: 2 + 7 + 6 = 15)."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 1,
+    "question": "Které číslo patří místo otazníku? Každý řádek je sestaven podle stejného pravidla.\n\n  3     6    12\n  5    10    20\n  7    14     ?",
+    "answer": "28",
+    "explanation": "Každé číslo v řádku je dvojnásobkem předchozího: 3 → 6 → 12, 5 → 10 → 20, tedy 7 → 14 → 28."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 1,
+    "question": "Které číslo patří místo otazníku? Každý sloupec je sestaven podle stejného pravidla.\n\n  2     5     7\n  4     1     3\n  6     6     ?",
+    "answer": "10",
+    "explanation": "Číslo ve spodním řádku je součtem dvou čísel nad ním ve stejném sloupci: 2 + 4 = 6, 5 + 1 = 6, tedy 7 + 3 = 10."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 1,
+    "question": "Které číslo patří místo otazníku? Každý řádek je sestaven podle stejného pravidla.\n\n  2     5     8    11\n  3     7    11    15\n  4     9    14     ?",
+    "answer": "19",
+    "explanation": "V každém řádku se čísla zvětšují o stejný krok: v 1. řádku o 3, ve 2. o 4, ve 3. o 5. Proto 14 + 5 = 19."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 1,
+    "question": "Které číslo patří místo otazníku? Každý řádek je sestaven podle stejného pravidla.\n\n  4     8     6\n 10     6     8\n  7    13     ?",
+    "answer": "10",
+    "explanation": "Třetí číslo je průměrem prvních dvou: (4 + 8) : 2 = 6, (10 + 6) : 2 = 8, tedy (7 + 13) : 2 = 10."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 1,
+    "question": "Které číslo patří místo otazníku? Každý řádek je sestaven podle stejného pravidla.\n\n  1     2     3     6\n  4     2     5    11\n  3     7     2     ?",
+    "answer": "12",
+    "explanation": "Poslední číslo v řádku je součtem prvních tří: 1 + 2 + 3 = 6, 4 + 2 + 5 = 11, tedy 3 + 7 + 2 = 12."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 1,
+    "question": "Které číslo patří místo otazníku? Každý řádek je sestaven podle stejného pravidla.\n\n  2     4\n  3     9\n  5    25\n  7     ?",
+    "answer": "49",
+    "explanation": "Číslo vpravo je druhou mocninou čísla vlevo: 2² = 4, 3² = 9, 5² = 25, tedy 7² = 49."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 2,
+    "question": "Které číslo patří místo otazníku? Každý řádek je sestaven podle stejného pravidla.\n\n  3     4    10\n  5     2    12\n  6     5     ?",
+    "answer": "17",
+    "explanation": "Třetí číslo = dvojnásobek prvního + druhé: 2 · 3 + 4 = 10, 2 · 5 + 2 = 12, tedy 2 · 6 + 5 = 17."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 2,
+    "question": "Které číslo patří místo otazníku? Každý řádek je sestaven podle stejného pravidla.\n\n  2     3     7\n  3     1    10\n  4     5     ?",
+    "answer": "21",
+    "explanation": "Třetí číslo = druhá mocnina prvního + druhé: 2² + 3 = 7, 3² + 1 = 10, tedy 4² + 5 = 21."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 2,
+    "question": "Které číslo patří místo otazníku? Každý řádek je sestaven podle stejného pravidla.\n\n  3     4    14\n  5     1    12\n  6     3     ?",
+    "answer": "18",
+    "explanation": "Třetí číslo je dvojnásobkem součtu prvních dvou: 2 · (3 + 4) = 14, 2 · (5 + 1) = 12, tedy 2 · (6 + 3) = 18."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 2,
+    "question": "Ve vrcholech každého trojúhelníku jsou tři čísla, uprostřed čtvrté. Které číslo patří doprostřed třetího trojúhelníku?\n\n1. trojúhelník: vrcholy 2, 3, 4 – uprostřed 24\n2. trojúhelník: vrcholy 1, 5, 6 – uprostřed 30\n3. trojúhelník: vrcholy 2, 2, 7 – uprostřed ?",
+    "answer": "28",
+    "explanation": "Číslo uprostřed je součinem čísel ve vrcholech: 2 · 3 · 4 = 24, 1 · 5 · 6 = 30, tedy 2 · 2 · 7 = 28."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 2,
+    "question": "Které číslo patří místo otazníku? Každý řádek je sestaven podle stejného pravidla.\n\n  2     3     8\n  4     2    12\n  5     4     ?",
+    "answer": "25",
+    "explanation": "Třetí číslo = první · (druhé + 1): 2 · 4 = 8, 4 · 3 = 12, tedy 5 · 5 = 25."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 2,
+    "question": "Každý kříž má čtyři čísla na ramenech a jedno uprostřed. Které číslo patří doprostřed třetího kříže?\n\n1. kříž: nahoře 3, dole 5, vlevo 4, vpravo 6 – uprostřed 9\n2. kříž: nahoře 7, dole 1, vlevo 2, vpravo 4 – uprostřed 7\n3. kříž: nahoře 8, dole 6, vlevo 5, vpravo 3 – uprostřed ?",
+    "answer": "11",
+    "explanation": "Číslo uprostřed je polovinou součtu čísel na ramenech: (3 + 5 + 4 + 6) : 2 = 9, (7 + 1 + 2 + 4) : 2 = 7, tedy (8 + 6 + 5 + 3) : 2 = 11."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 2,
+    "question": "Které číslo patří místo otazníku? Každý sloupec je sestaven podle stejného pravidla.\n\n  2     3     4\n  5     2     3\n 10     6     ?",
+    "answer": "12",
+    "explanation": "Číslo ve spodním řádku je součinem dvou čísel nad ním: 2 · 5 = 10, 3 · 2 = 6, tedy 4 · 3 = 12."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 2,
+    "question": "Které číslo patří místo otazníku? Každý řádek je sestaven podle stejného pravidla.\n\n  3     4     2    10\n  5     2     3     7\n  6     3     4     ?",
+    "answer": "14",
+    "explanation": "Čtvrté číslo = součin prvních dvou minus třetí: 3 · 4 − 2 = 10, 5 · 2 − 3 = 7, tedy 6 · 3 − 4 = 14."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 2,
+    "question": "Ve vrcholech každého trojúhelníku jsou tři čísla, uprostřed čtvrté. Které číslo patří doprostřed třetího trojúhelníku?\n\n1. trojúhelník: vrcholy 1, 2, 3 – uprostřed 12\n2. trojúhelník: vrcholy 3, 4, 5 – uprostřed 24\n3. trojúhelník: vrcholy 2, 5, 8 – uprostřed ?",
+    "answer": "30",
+    "explanation": "Číslo uprostřed je dvojnásobkem součtu čísel ve vrcholech: 2 · (1 + 2 + 3) = 12, 2 · (3 + 4 + 5) = 24, tedy 2 · (2 + 5 + 8) = 30."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 2,
+    "question": "Pyramida: každé číslo je součtem dvou čísel přímo pod ním. Které číslo patří místo otazníku?\n\n            30\n        13      17\n     5       8       9\n  2      ?       5       4",
+    "answer": "3",
+    "explanation": "Ve druhé řadě zdola je 5 = 2 + ?, tedy ? = 3. Kontrola: 3 + 5 = 8, 8 + 9 = 17, 13 + 17 = 30."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 2,
+    "question": "Které číslo patří místo otazníku? Každý řádek je sestaven podle stejného pravidla.\n\n  2     3     8\n  3     3    27\n  4     2     ?",
+    "answer": "16",
+    "explanation": "Třetí číslo je první číslo umocněné na druhé: 2³ = 8, 3³ = 27, tedy 4² = 16."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 2,
+    "question": "Kruh je rozdělen na 6 stejných výsečí. Po směru hodinových ručiček v nich postupně stojí čísla:\n\n3, 8, 5, 12, 7, ?\n\nKteré číslo patří místo otazníku? (Výseč s otazníkem sousedí s výsečí s číslem 3.)",
+    "answer": "10",
+    "explanation": "Protilehlé výseče (1. a 4., 2. a 5., 3. a 6.) mají vždy součet 15: 3 + 12 = 15, 8 + 7 = 15, tedy 5 + ? = 15, ? = 10."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 3,
+    "question": "Které číslo patří místo otazníku? Každý řádek je sestaven podle stejného pravidla.\n\n  5     3    16\n  6     2    32\n  7     4     ?",
+    "answer": "33",
+    "explanation": "Třetí číslo je rozdílem druhých mocnin prvních dvou: 5² − 3² = 16, 6² − 2² = 32, tedy 7² − 4² = 33."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 3,
+    "question": "Které číslo patří místo otazníku? Každý řádek je sestaven podle stejného pravidla.\n\n  4     5    11\n  6     3     9\n  7     4     ?",
+    "answer": "17",
+    "explanation": "Třetí číslo = součin minus součet prvních dvou: 4 · 5 − 9 = 11, 6 · 3 − 9 = 9, tedy 7 · 4 − 11 = 17."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 3,
+    "question": "Které číslo patří místo otazníku? Každý řádek je sestaven podle stejného pravidla.\n\n  2    12     4     6\n  3     8     6     4\n  9     4    12     ?",
+    "answer": "3",
+    "explanation": "Součin prvních dvou čísel se rovná součinu posledních dvou: 2 · 12 = 4 · 6, 3 · 8 = 6 · 4, tedy 9 · 4 = 12 · ?, ? = 3."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 3,
+    "question": "Které číslo patří místo otazníku? Každý řádek je sestaven podle stejného pravidla.\n\n  1     2     5\n  3     4    25\n  2     5     ?",
+    "answer": "29",
+    "explanation": "Třetí číslo je součtem druhých mocnin prvních dvou: 1² + 2² = 5, 3² + 4² = 25, tedy 2² + 5² = 29."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 3,
+    "question": "V rozích každého čtverce jsou čísla, uprostřed je páté. Které číslo patří doprostřed třetího čtverce?\n\n1. čtverec: vlevo nahoře 5, vpravo nahoře 2, vlevo dole 3, vpravo dole 4 – uprostřed 14\n2. čtverec: vlevo nahoře 6, vpravo nahoře 3, vlevo dole 2, vpravo dole 5 – uprostřed 24\n3. čtverec: vlevo nahoře 7, vpravo nahoře 4, vlevo dole 3, vpravo dole 2 – uprostřed ?",
+    "answer": "2",
+    "explanation": "Číslo uprostřed = součin čísel na jedné úhlopříčce minus součin na druhé (levý horní · pravý dolní − pravý horní · levý dolní): 5 · 4 − 2 · 3 = 14, 6 · 5 − 3 · 2 = 24, tedy 7 · 2 − 4 · 3 = 2."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 3,
+    "question": "Které číslo patří místo otazníku? Každý řádek je sestaven podle stejného pravidla.\n\n  2     3    11\n  5     4    29\n  3     6     ?",
+    "answer": "27",
+    "explanation": "Třetí číslo = součin + součet prvních dvou: 2 · 3 + 5 = 11, 5 · 4 + 9 = 29, tedy 3 · 6 + 9 = 27."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 3,
+    "question": "Které číslo patří místo otazníku? Každý řádek je sestaven podle stejného pravidla.\n\n  2     3     4    20\n  1     5     3    18\n  4     2     5     ?",
+    "answer": "30",
+    "explanation": "Čtvrté číslo = (první + druhé) · třetí: (2 + 3) · 4 = 20, (1 + 5) · 3 = 18, tedy (4 + 2) · 5 = 30."
+  },
+  {
+    "category": "Číselné tabulky",
+    "difficulty": 3,
+    "question": "Které číslo patří místo otazníku? Každý sloupec je sestaven podle stejného pravidla.\n\n  3     5     4\n  2     7     6\n  7    18     ?",
+    "answer": "10",
+    "explanation": "Spodní číslo ve sloupci = druhá mocnina horního minus prostřední: 3² − 2 = 7, 5² − 7 = 18, tedy 4² − 6 = 10."
+  }
+]

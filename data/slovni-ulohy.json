@@ -1,0 +1,665 @@
+[
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 1,
+    "question": "Otec je o 28 let starší než jeho syn. Dohromady mají 50 let. Kolik let je synovi?",
+    "answer": "11",
+    "accept": [
+      "11 let",
+      "11 roků",
+      "11 r"
+    ],
+    "explanation": "Bez rozdílu 28 let zbývá 50 − 28 = 22 let, které se dělí rovným dílem: 22 : 2 = 11 let (otci je 39)."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Matka je nyní třikrát starší než její dcera. Za 10 let bude matka už jen dvakrát starší než dcera. Kolik let je dceři nyní?",
+    "answer": "10",
+    "accept": [
+      "10 let",
+      "10 roků"
+    ],
+    "explanation": "Označme věk dcery d: 3d + 10 = 2(d + 10), odtud d = 10. Dceři je 10 let, matce 30 let."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Před pěti lety byl Jan dvakrát starší než Eva. Dnes je jim dohromady 40 let. Kolik let je dnes Janovi?",
+    "answer": "25",
+    "accept": [
+      "25 let",
+      "25 roků"
+    ],
+    "explanation": "J − 5 = 2(E − 5), tedy J = 2E − 5. Dosazením do J + E = 40 dostaneme 3E − 5 = 40, E = 15 a J = 25."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 1,
+    "question": "Tři sourozenci mají dohromady 30 let. Nejstarší je dvakrát starší než nejmladší a prostřední je o 2 roky starší než nejmladší. Kolik let je nejstaršímu?",
+    "answer": "14",
+    "accept": [
+      "14 let",
+      "14 roků"
+    ],
+    "explanation": "Nejmladší x, prostřední x + 2, nejstarší 2x: 4x + 2 = 30, x = 7. Nejstaršímu je 14 let."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Dědeček má tolik let, kolik má jeho vnuk měsíců. Dohromady mají 65 let. Kolik let je dědečkovi?",
+    "answer": "60",
+    "accept": [
+      "60 let",
+      "60 roků"
+    ],
+    "explanation": "Dědeček je 12krát starší než vnuk: 12v + v = 65, v = 5. Dědečkovi je 12 · 5 = 60 let."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 1,
+    "question": "Auto jede stálou rychlostí 90 km/h. Kolik kilometrů ujede za 40 minut?",
+    "answer": "60",
+    "accept": [
+      "60 km",
+      "60 kilometrů"
+    ],
+    "explanation": "40 minut jsou 2/3 hodiny: 90 · 2/3 = 60 km."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Cyklista ujel 36 km za 2 hodiny a 15 minut. Jakou průměrnou rychlostí jel (v km/h)?",
+    "answer": "16",
+    "accept": [
+      "16 km/h"
+    ],
+    "explanation": "2 h 15 min = 2,25 h. Rychlost = 36 : 2,25 = 16 km/h."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 1,
+    "question": "Z měst vzdálených 300 km vyjedou současně proti sobě dva vlaky rychlostmi 70 km/h a 80 km/h. Za kolik hodin se potkají?",
+    "answer": "2",
+    "accept": [
+      "2 h",
+      "2 hodiny",
+      "2 hod"
+    ],
+    "explanation": "Vlaky se přibližují rychlostí 70 + 80 = 150 km/h, takže 300 km urazí za 300 : 150 = 2 hodiny."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 3,
+    "question": "Řidič jel z města A do města B průměrnou rychlostí 60 km/h a stejnou cestou zpět průměrnou rychlostí 40 km/h. Jaká byla jeho průměrná rychlost na celé cestě tam a zpět?",
+    "options": [
+      "50 km/h",
+      "45 km/h",
+      "48 km/h",
+      "52 km/h"
+    ],
+    "answer": "48 km/h",
+    "explanation": "Pro vzdálenost 120 km: tam 2 h, zpět 3 h, celkem 240 km za 5 h, tj. 48 km/h. Průměr rychlostí (50 km/h) je chyták – déle se jelo pomaleji."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Petr vyšel v 8:00 z domu rychlostí 5 km/h. V 9:00 za ním stejnou cestou vyjela Jana na kole rychlostí 15 km/h. V kolik hodin Petra dohoní?",
+    "answer": "9:30",
+    "accept": [
+      "9.30",
+      "9:30 h",
+      "9.30 h",
+      "půl desáté",
+      "v 9:30"
+    ],
+    "explanation": "V 9:00 má Petr náskok 5 km. Jana se k němu přibližuje rychlostí 15 − 5 = 10 km/h, náskok tedy smaže za 0,5 h – v 9:30."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 3,
+    "question": "Vlak dlouhý 200 m jede rychlostí 72 km/h a projíždí tunelem dlouhým 400 m. Kolik sekund uplyne od chvíle, kdy čelo vlaku vjede do tunelu, do chvíle, kdy z něj vyjede konec vlaku?",
+    "answer": "30",
+    "accept": [
+      "30 s",
+      "30 sekund"
+    ],
+    "explanation": "72 km/h = 20 m/s. Vlak musí urazit délku tunelu plus svou délku: 400 + 200 = 600 m, což trvá 600 : 20 = 30 s."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 1,
+    "question": "Loď pluje po proudu řeky rychlostí 24 km/h a proti proudu rychlostí 16 km/h. Jaká je rychlost proudu řeky (v km/h)?",
+    "answer": "4",
+    "accept": [
+      "4 km/h"
+    ],
+    "explanation": "Po proudu = v + p, proti proudu = v − p. Rozdíl 24 − 16 = 8 km/h odpovídá 2p, tedy p = 4 km/h."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 3,
+    "question": "Když Petr na jedoucím eskalátoru jen stojí, vyveze ho nahoru za 60 sekund. Po stojícím eskalátoru vyjde nahoru pěšky za 90 sekund. Za kolik sekund se dostane nahoru, když půjde po jedoucím eskalátoru stejným tempem?",
+    "answer": "36",
+    "accept": [
+      "36 s",
+      "36 sekund"
+    ],
+    "explanation": "Za sekundu urazí 1/60 + 1/90 = 5/180 = 1/36 délky eskalátoru, celou délku tedy za 36 s."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 1,
+    "question": "Jeden malíř vymaluje pokoj za 6 hodin, druhý za 3 hodiny. Za kolik hodin pokoj vymalují společně?",
+    "answer": "2",
+    "accept": [
+      "2 h",
+      "2 hodiny",
+      "2 hod"
+    ],
+    "explanation": "Za hodinu stihnou 1/6 + 1/3 = 1/2 pokoje, celý pokoj tedy za 2 hodiny."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Přítok naplní prázdnou nádrž za 4 hodiny, odtok plnou nádrž vypustí za 6 hodin. Za kolik hodin se prázdná nádrž naplní, když jsou otevřeny oba?",
+    "answer": "12",
+    "accept": [
+      "12 h",
+      "12 hodin",
+      "12 hod"
+    ],
+    "explanation": "Za hodinu přibude 1/4 − 1/6 = 1/12 nádrže, celá nádrž se naplní za 12 hodin."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 3,
+    "question": "Čerpadla A a B společně vyčerpají jímku za 6 hodin, čerpadla B a C za 10 hodin a čerpadla A a C za 7,5 hodiny. Za kolik hodin ji vyčerpají všechna tři čerpadla najednou?",
+    "answer": "5",
+    "accept": [
+      "5 h",
+      "5 hodin",
+      "5 hod"
+    ],
+    "explanation": "Sečteme hodinové výkony: 2(a + b + c) = 1/6 + 1/10 + 2/15 = 2/5, tedy a + b + c = 1/5. Všechna tři čerpadla to zvládnou za 5 hodin."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 1,
+    "question": "Pět dělníků postaví zeď za 12 dní. Za kolik dní by stejnou zeď postavilo 6 dělníků, kteří pracují stejně rychle?",
+    "answer": "10",
+    "accept": [
+      "10 dní",
+      "10 dnů",
+      "10 dni"
+    ],
+    "explanation": "Práce představuje 5 · 12 = 60 dělnických dní; 6 dělníků ji zvládne za 60 : 6 = 10 dní."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 3,
+    "question": "Anna by úkol sama zvládla za 10 hodin, Bára za 15 hodin. Nejprve pracovaly 3 hodiny společně, pak Anna odešla. Kolik hodin ještě musí Bára pracovat, aby úkol dokončila?",
+    "answer": "7,5",
+    "accept": [
+      "7,5 h",
+      "7,5 hodiny",
+      "7,5 hod",
+      "7.5",
+      "7.5 h",
+      "7.5 hodiny",
+      "7.5 hod",
+      "7 a půl",
+      "sedm a půl"
+    ],
+    "explanation": "Společně udělají za hodinu 1/10 + 1/15 = 1/6 úkolu, za 3 hodiny polovinu. Zbylou polovinu udělá Bára za 15 : 2 = 7,5 hodiny."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 1,
+    "question": "Bunda stála 2 000 Kč a byla zlevněna o 15 %. Kolik stojí po slevě?",
+    "answer": "1700",
+    "accept": [
+      "1700 Kč",
+      "1 700",
+      "1 700 Kč"
+    ],
+    "explanation": "15 % z 2 000 Kč je 300 Kč, nová cena je 2 000 − 300 = 1 700 Kč."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Cena zboží byla nejprve zvýšena o 20 % a poté snížena o 20 %. Jak se konečná cena liší od původní?",
+    "options": [
+      "Je stejná",
+      "Je o 4 % nižší",
+      "Je o 4 % vyšší",
+      "Je o 2 % nižší"
+    ],
+    "answer": "Je o 4 % nižší",
+    "explanation": "Konečná cena = 1,2 · 0,8 = 0,96 původní ceny, je tedy o 4 % nižší. Zdražení i zlevnění se počítají z různých základů, proto se nevyruší."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Po zlevnění o 25 % stojí boty 1 200 Kč. Kolik stály před zlevněním?",
+    "answer": "1600",
+    "accept": [
+      "1600 Kč",
+      "1 600",
+      "1 600 Kč"
+    ],
+    "explanation": "Cena po slevě je 75 % původní ceny: 1 200 : 0,75 = 1 600 Kč."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 3,
+    "question": "Čerstvé houby obsahují 90 % vody, sušené jen 10 % vody. Kolik kilogramů sušených hub vznikne z 18 kg čerstvých?",
+    "answer": "2",
+    "accept": [
+      "2 kg"
+    ],
+    "explanation": "Sušina v čerstvých houbách je 10 % z 18 kg = 1,8 kg. V sušených houbách tvoří 90 %, takže jejich hmotnost je 1,8 : 0,9 = 2 kg."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 1,
+    "question": "Ve třídě je 30 žáků, z toho 40 % jsou dívky. Kolik je ve třídě chlapců?",
+    "answer": "18",
+    "accept": [
+      "18 chlapců"
+    ],
+    "explanation": "Chlapci tvoří 60 % třídy: 0,6 · 30 = 18."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Plat se zvýšil z 32 000 Kč na 36 000 Kč. O kolik procent se zvýšil?",
+    "answer": "12,5",
+    "accept": [
+      "12,5 %",
+      "12,5%",
+      "12,5 procenta",
+      "12.5",
+      "12.5 %",
+      "12.5%",
+      "12.5 procenta"
+    ],
+    "explanation": "Nárůst 4 000 Kč vztáhneme k původnímu platu: 4 000 : 32 000 = 0,125 = 12,5 %."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Na účet s úrokem 5 % ročně (úrok se připisuje jednou ročně a dále se úročí) vložíme 20 000 Kč. Kolik korun bude na účtu po dvou letech?",
+    "answer": "22050",
+    "accept": [
+      "22050 Kč",
+      "22 050",
+      "22 050 Kč"
+    ],
+    "explanation": "Po prvním roce 20 000 · 1,05 = 21 000 Kč, po druhém 21 000 · 1,05 = 22 050 Kč."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 3,
+    "question": "Ve skupině lidí tvoří ženy 60 %. Když ze skupiny odejde 10 žen, budou ženy tvořit přesně 50 %. Kolik lidí bylo ve skupině původně?",
+    "answer": "50",
+    "accept": [
+      "50 lidí"
+    ],
+    "explanation": "0,6n − 10 = 0,5(n − 10), tedy 0,1n = 5 a n = 50 (30 žen a 20 mužů; po odchodu 20 žen a 20 mužů)."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 1,
+    "question": "35 bonbonů rozdělíme mezi dvě děti v poměru 3 : 4. Kolik bonbonů dostane dítě, které dostane víc?",
+    "answer": "20",
+    "accept": [
+      "20 bonbonů"
+    ],
+    "explanation": "Celkem 3 + 4 = 7 dílů, jeden díl je 35 : 7 = 5 bonbonů. Větší podíl je 4 · 5 = 20."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Na mapě s měřítkem 1 : 50 000 jsou dvě obce vzdálené 7 cm. Kolik kilometrů je to ve skutečnosti?",
+    "answer": "3,5",
+    "accept": [
+      "3,5 km",
+      "3.5",
+      "3.5 km"
+    ],
+    "explanation": "7 cm · 50 000 = 350 000 cm = 3,5 km."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 1,
+    "question": "Ve třídě je poměr chlapců a dívek 2 : 3. Chlapců je 12. Kolik žáků je ve třídě celkem?",
+    "answer": "30",
+    "accept": [
+      "30 žáků"
+    ],
+    "explanation": "Jeden díl je 12 : 2 = 6 žáků, celkem je 5 dílů, tedy 30 žáků."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Tři kamarádi vložili do společné sázky 200 Kč, 300 Kč a 500 Kč. Vyhráli 4 000 Kč a dělí se v poměru vkladů. Kolik dostane ten, kdo vložil 300 Kč?",
+    "answer": "1200",
+    "accept": [
+      "1200 Kč",
+      "1 200",
+      "1 200 Kč"
+    ],
+    "explanation": "Vklady činí celkem 1 000 Kč, 300 Kč je 30 % z nich. 30 % ze 4 000 Kč je 1 200 Kč."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Čtyři rohlíky a jedna houska stojí 17 Kč. Dva rohlíky a tři housky stojí 21 Kč. Kolik korun stojí jedna houska?",
+    "answer": "5",
+    "accept": [
+      "5 Kč"
+    ],
+    "explanation": "Ze vztahů 4r + h = 17 a 2r + 3h = 21: zdvojnásobením druhé rovnice 4r + 6h = 42, odečtením první 5h = 25, h = 5 Kč (rohlík stojí 3 Kč)."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Sešit a tužka stojí dohromady 44 Kč. Sešit je o 40 Kč dražší než tužka. Kolik korun stojí tužka?",
+    "answer": "2",
+    "accept": [
+      "2 Kč"
+    ],
+    "explanation": "Tužka t, sešit t + 40: 2t + 40 = 44, t = 2 Kč. Odpověď 4 Kč je chyták – sešit by pak stál 44 Kč a dohromady by to bylo 48 Kč."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 1,
+    "question": "Pět kilogramů jablek stojí 145 Kč. Kolik stojí 3 kg těchto jablek?",
+    "answer": "87",
+    "accept": [
+      "87 Kč"
+    ],
+    "explanation": "1 kg stojí 145 : 5 = 29 Kč, 3 kg stojí 3 · 29 = 87 Kč."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Petr koupil tři knihy s průměrnou cenou 240 Kč. Po koupi čtvrté knihy stoupla průměrná cena na 270 Kč. Kolik stála čtvrtá kniha?",
+    "answer": "360",
+    "accept": [
+      "360 Kč"
+    ],
+    "explanation": "Tři knihy stály 3 · 240 = 720 Kč, čtyři knihy 4 · 270 = 1 080 Kč. Čtvrtá stála 1 080 − 720 = 360 Kč."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 3,
+    "question": "Obchodník koupil kolo za 8 000 Kč a prodal ho za 10 000 Kč. Pak ho koupil zpět za 12 000 Kč a znovu prodal za 14 000 Kč. Jaký je jeho celkový výsledek?",
+    "options": [
+      "Zisk 2 000 Kč",
+      "Žádný zisk ani ztráta",
+      "Ztráta 2 000 Kč",
+      "Zisk 4 000 Kč"
+    ],
+    "answer": "Zisk 4 000 Kč",
+    "explanation": "Celkem zaplatil 8 000 + 12 000 = 20 000 Kč a utržil 10 000 + 14 000 = 24 000 Kč, vydělal tedy 4 000 Kč (každý obchod zvlášť přinesl 2 000 Kč)."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Smícháme 2 litry 10% roztoku soli a 3 litry 20% roztoku soli. Jakou koncentraci (v %) má výsledný roztok?",
+    "answer": "16",
+    "accept": [
+      "16 %",
+      "16%",
+      "16 procent"
+    ],
+    "explanation": "Soli je 0,2 + 0,6 = 0,8 l v 5 l roztoku: 0,8 : 5 = 0,16 = 16 %."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Kolik litrů vody musíme přilít k 6 litrům 30% roztoku, abychom získali roztok 20%?",
+    "answer": "3",
+    "accept": [
+      "3 l",
+      "3 litry",
+      "3 litrů"
+    ],
+    "explanation": "Látky je 0,3 · 6 = 1,8 l. Má tvořit 20 %, takže celkový objem je 1,8 : 0,2 = 9 l. Přilijeme 9 − 6 = 3 l vody."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 3,
+    "question": "Pražírna míchá kávu za 300 Kč/kg s kávou za 450 Kč/kg. Chce získat 10 kg směsi, která bude mít hodnotu 360 Kč/kg. Kolik kilogramů dražší kávy musí použít?",
+    "answer": "4",
+    "accept": [
+      "4 kg"
+    ],
+    "explanation": "300(10 − x) + 450x = 3 600, tedy 3 000 + 150x = 3 600 a x = 4 kg dražší kávy (a 6 kg levnější)."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 3,
+    "question": "Jaký úhel (ve stupních) svírají ručičky hodin v 15:30?",
+    "answer": "75",
+    "accept": [
+      "75 °",
+      "75°",
+      "75 stupňů"
+    ],
+    "explanation": "Minutová ručička ukazuje na 6 (180°). Hodinová se za půl hodiny posunula z trojky o polovinu úseku: 90° + 15° = 105°. Úhel je 180° − 105° = 75°."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 3,
+    "question": "Kolikrát za 24 hodin (od půlnoci do následující půlnoci, nepočítaje tu druhou) se překryjí hodinová a minutová ručička?",
+    "options": [
+      "24krát",
+      "23krát",
+      "22krát",
+      "12krát"
+    ],
+    "answer": "22krát",
+    "explanation": "Minutová ručička oběhne ciferník 24krát, hodinová 2krát; minutová ji tedy dostihne 24 − 2 = 22krát (překrytí nenastává mezi 11 a 12 hodinou, nýbrž až ve 12)."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "V nepřestupném roce připadl 1. leden na pondělí. Na jaký den v týdnu připadne 1. březen?",
+    "answer": "čtvrtek",
+    "explanation": "Od 1. ledna do 1. března uplyne 31 + 28 = 59 dní. 59 = 8 · 7 + 3, takže je to o 3 dny dál než pondělí – čtvrtek."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 1,
+    "question": "Kostelní hodiny odbíjejí každou celou hodinu tolik úderů, kolik právě je hodin podle dvanáctihodinového ciferníku (v 1:00 jeden úder, ve 12:00 dvanáct). Kolik úderů odbijí za celý den (24 hodin)?",
+    "answer": "156",
+    "accept": [
+      "156 úderů"
+    ],
+    "explanation": "Za 12 hodin je to 1 + 2 + … + 12 = 78 úderů, za 24 hodin 2 · 78 = 156 úderů."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 3,
+    "question": "Hodiny odbíjejí šest hodin 6 údery a trvá to 5 sekund (od prvního do posledního úderu). Jak dlouho bude trvat odbíjení dvanácti hodin 12 údery?",
+    "answer": "11",
+    "accept": [
+      "11 s",
+      "11 sekund"
+    ],
+    "explanation": "Mezi 6 údery je 5 mezer, každá trvá 1 s. Mezi 12 údery je 11 mezer, tedy 11 s (ne 10 s)."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 1,
+    "question": "Film začal v 19:45 a trval 2 hodiny 35 minut. V kolik hodin skončil?",
+    "answer": "22:20",
+    "accept": [
+      "22.20",
+      "22:20 h",
+      "22.20 h",
+      "v 22:20"
+    ],
+    "explanation": "19:45 + 2 h = 21:45; dalších 15 minut je 22:00 a zbylých 20 minut 22:20."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 1,
+    "question": "Klára má 3 trička a 4 sukně. Kolik různých dvojic tričko + sukně si může obléct?",
+    "answer": "12",
+    "accept": [
+      "12 dvojic",
+      "12 kombinací"
+    ],
+    "explanation": "Ke každému ze 3 triček může zvolit kteroukoli ze 4 sukní: 3 · 4 = 12."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Na schůzce se sešlo 8 lidí a každý si podal ruku s každým právě jednou. Kolik podání rukou proběhlo?",
+    "answer": "28",
+    "accept": [
+      "28 podání"
+    ],
+    "explanation": "Každý podá ruku 7 lidem, 8 · 7 = 56, ale každé podání jsme počítali dvakrát: 56 : 2 = 28."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Kolik různých trojmístných čísel lze sestavit z číslic 1, 2, 3, 4, jestliže se žádná číslice v čísle nesmí opakovat?",
+    "answer": "24",
+    "accept": [
+      "24 čísel"
+    ],
+    "explanation": "Na místo stovek lze dát 4 číslice, na desítky zbylé 3, na jednotky zbylé 2: 4 · 3 · 2 = 24."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Kolik existuje dvojmístných čísel, jejichž ciferný součet je 9?",
+    "answer": "9",
+    "accept": [
+      "9 čísel"
+    ],
+    "explanation": "Jsou to čísla 18, 27, 36, 45, 54, 63, 72, 81 a 90 – celkem 9."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 3,
+    "question": "Kolik čísel od 1 do 100 (včetně) je dělitelných třemi nebo pěti?",
+    "answer": "47",
+    "accept": [
+      "47 čísel"
+    ],
+    "explanation": "Dělitelných 3 je 33, dělitelných 5 je 20, oběma (tj. 15) je 6, ta jsme započítali dvakrát: 33 + 20 − 6 = 47."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 1,
+    "question": "Rovný plot dlouhý 20 m má sloupky po 4 metrech, včetně sloupků na obou koncích. Kolik má plot sloupků?",
+    "answer": "6",
+    "accept": [
+      "6 sloupků"
+    ],
+    "explanation": "Úseků je 20 : 4 = 5, sloupků je o jeden víc než úseků: 6."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 3,
+    "question": "Šnek leze na sloup vysoký 10 m. Každý den vyleze o 3 m výš, každou noc sklouzne o 2 m níž. Začal ráno prvního dne u paty sloupu. Kterého dne dosáhne vrcholu?",
+    "answer": "8",
+    "accept": [
+      "8.",
+      "8. den",
+      "8. dne",
+      "osmý",
+      "osmého"
+    ],
+    "explanation": "Po 7 dnech a nocích je ve výšce 7 m. Osmý den vyleze o 3 m na 10 m a je nahoře dřív, než by sklouzl – tedy 8. den."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 1,
+    "question": "Plocha leknínů na rybníce se každý den zdvojnásobí. Celý rybník pokryjí za 30 dní. Za kolik dní pokryly polovinu rybníka?",
+    "answer": "29",
+    "accept": [
+      "29 dní",
+      "29 dnů"
+    ],
+    "explanation": "Den před úplným pokrytím byla plocha poloviční, tedy 30 − 1 = 29 dní."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Pět strojů vyrobí pět součástek za pět minut. Za kolik minut vyrobí 100 strojů 100 součástek?",
+    "answer": "5",
+    "accept": [
+      "5 minut",
+      "5 min"
+    ],
+    "explanation": "Jeden stroj vyrobí jednu součástku za 5 minut. 100 strojů pracuje souběžně, každý vyrobí jednu součástku – opět za 5 minut."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 1,
+    "question": "Pastýř měl 15 ovcí. Všechny kromě 9 utekly. Kolik ovcí mu zůstalo?",
+    "answer": "9",
+    "accept": [
+      "9 ovcí"
+    ],
+    "explanation": "„Všechny kromě 9 utekly“ znamená, že 9 ovcí zůstalo."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 3,
+    "question": "Kniha má stránky očíslované od 1 do 120. Kolik číslic se celkem použilo na číslování stránek?",
+    "answer": "252",
+    "accept": [
+      "252 číslic"
+    ],
+    "explanation": "Stránky 1–9: 9 číslic, 10–99: 90 · 2 = 180 číslic, 100–120: 21 · 3 = 63 číslic. Celkem 9 + 180 + 63 = 252."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 1,
+    "question": "Součet tří po sobě jdoucích přirozených čísel je 87. Jaké je největší z nich?",
+    "answer": "30",
+    "explanation": "Prostřední číslo je 87 : 3 = 29, čísla jsou 28, 29, 30. Největší je 30."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Obdélníková zahrada má obvod 46 m a její délka je o 7 m větší než šířka. Jaký je obsah zahrady v m²?",
+    "answer": "120",
+    "accept": [
+      "120 m²",
+      "120 m2",
+      "120 metrů čtverečních"
+    ],
+    "explanation": "2(š + š + 7) = 46, tedy 2š + 7 = 23 a š = 8 m, délka 15 m. Obsah 8 · 15 = 120 m²."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 2,
+    "question": "Na parkovišti stojí jen auta a motorky, celkem 20 vozidel s 66 koly. Kolik je na parkovišti motorek?",
+    "answer": "7",
+    "accept": [
+      "7 motorek"
+    ],
+    "explanation": "Kdyby všech 20 vozidel byly motorky, měly by 40 kol. Každé auto přidá 2 kola: (66 − 40) : 2 = 13 aut, motorek je 20 − 13 = 7."
+  },
+  {
+    "category": "Slovní úlohy",
+    "difficulty": 1,
+    "question": "Dort byl rozkrojen na 8 stejných dílků. Petr snědl 3/8 dortu a Eva 1/4 dortu. Kolik dílků zbylo?",
+    "answer": "3",
+    "accept": [
+      "3 dílky",
+      "3 dílků"
+    ],
+    "explanation": "Petr snědl 3 dílky, Eva 1/4 z 8 = 2 dílky. Zbylo 8 − 3 − 2 = 3 dílky."
+  }
+]

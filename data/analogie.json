@@ -1,0 +1,706 @@
+[
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii:\n\npes : štěkat = kočka : ?",
+    "options": [
+      "bučet",
+      "kokrhat",
+      "hýkat",
+      "mňoukat"
+    ],
+    "answer": "mňoukat",
+    "explanation": "Zvíře a zvuk, který vydává: pes štěká, kočka mňouká."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii (napiš jedno slovo):\n\nden : noc = světlo : ?",
+    "answer": "tma",
+    "accept": [
+      "temnota"
+    ],
+    "explanation": "Jde o protiklady: opakem dne je noc, opakem světla je tma."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii:\n\nkráva : tele = kobyla : ?",
+    "options": [
+      "sele",
+      "jehně",
+      "hříbě",
+      "kůzle"
+    ],
+    "answer": "hříbě",
+    "explanation": "Dospělé zvíře a jeho mládě: mládětem kobyly je hříbě."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii:\n\nruka : rukavice = noha : ?",
+    "options": [
+      "čepice",
+      "náramek",
+      "šála",
+      "bota"
+    ],
+    "answer": "bota",
+    "explanation": "Část těla a to, co se na ni obléká: na ruku rukavice, na nohu bota."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii:\n\npták : hnízdo = včela : ?",
+    "options": [
+      "nora",
+      "doupě",
+      "úl",
+      "chlév"
+    ],
+    "answer": "úl",
+    "explanation": "Živočich a jeho obydlí: pták žije v hnízdě, včela v úlu."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii (napiš jedno slovo):\n\nhorký : studený = vysoký : ?",
+    "answer": "nízký",
+    "explanation": "Dvojice protikladů: opakem slova vysoký je nízký."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii:\n\npekař : chléb = truhlář : ?",
+    "options": [
+      "zeď",
+      "šaty",
+      "boty",
+      "stůl"
+    ],
+    "answer": "stůl",
+    "explanation": "Řemeslník a jeho výrobek: pekař peče chléb, truhlář vyrábí stůl."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii:\n\nmalíř : štětec = dřevorubec : ?",
+    "options": [
+      "jehla",
+      "lžíce",
+      "pero",
+      "sekera"
+    ],
+    "answer": "sekera",
+    "explanation": "Profese a její typický nástroj: dřevorubec pracuje se sekerou."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii (napiš jedno slovo):\n\njedna : první = tři : ?",
+    "answer": "třetí",
+    "explanation": "Základní číslovka a odpovídající řadová číslovka: tři → třetí."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii:\n\nryba : ploutev = pták : ?",
+    "options": [
+      "kopyto",
+      "šupina",
+      "křídlo",
+      "žábry"
+    ],
+    "answer": "křídlo",
+    "explanation": "Orgán, kterým se živočich pohybuje: ryba plave pomocí ploutví, pták létá pomocí křídel."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii (napiš jedno slovo):\n\nmokrý : suchý = plný : ?",
+    "answer": "prázdný",
+    "explanation": "Dvojice protikladů: opakem slova plný je prázdný."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii:\n\nhousle : smyčec = buben : ?",
+    "options": [
+      "struna",
+      "píst",
+      "paličky",
+      "klávesa"
+    ],
+    "answer": "paličky",
+    "explanation": "Hudební nástroj a předmět, kterým se na něj hraje: na buben se hraje paličkami."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii:\n\nkráva : mléko = slepice : ?",
+    "options": [
+      "vejce",
+      "med",
+      "vlna",
+      "hedvábí"
+    ],
+    "answer": "vejce",
+    "explanation": "Zvíře a produkt, který od něj získáváme: od slepice vejce."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii:\n\noko : vidět = ucho : ?",
+    "options": [
+      "chutnat",
+      "hmatat",
+      "slyšet",
+      "čichat"
+    ],
+    "answer": "slyšet",
+    "explanation": "Smyslový orgán a jeho funkce: okem vidíme, uchem slyšíme."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii (napiš jedno slovo):\n\npondělí : úterý = leden : ?",
+    "answer": "únor",
+    "explanation": "Následující člen řady: po pondělí je úterý, po lednu je únor."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii (napiš jedno slovo):\n\nvelký : větší = malý : ?",
+    "answer": "menší",
+    "explanation": "Přídavné jméno a jeho 2. stupeň: malý → menší."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii:\n\nkladivo : hřebík = šroubovák : ?",
+    "options": [
+      "kleště",
+      "pila",
+      "pilník",
+      "šroub"
+    ],
+    "answer": "šroub",
+    "explanation": "Nástroj a to, s čím pracuje: kladivem zatloukáme hřebík, šroubovákem zašroubujeme šroub."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii:\n\nučitel : škola = lékař : ?",
+    "options": [
+      "nádraží",
+      "pošta",
+      "obchod",
+      "nemocnice"
+    ],
+    "answer": "nemocnice",
+    "explanation": "Profese a její typické pracoviště: lékař pracuje v nemocnici."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii:\n\nsníh : bílý = uhlí : ?",
+    "options": [
+      "žlutý",
+      "zelený",
+      "černý",
+      "modrý"
+    ],
+    "answer": "černý",
+    "explanation": "Věc a její typická barva: sníh je bílý, uhlí černé."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii (napiš jedno slovo):\n\nkotě : kočka = štěně : ?",
+    "answer": "pes",
+    "accept": [
+      "fena"
+    ],
+    "explanation": "Mládě a dospělé zvíře: ze štěněte vyroste pes."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii:\n\nvlna : ovce = med : ?",
+    "options": [
+      "moucha",
+      "motýl",
+      "kráva",
+      "včela"
+    ],
+    "answer": "včela",
+    "explanation": "Produkt a živočich, od kterého pochází: med produkují včely."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii:\n\nauto : silnice = vlak : ?",
+    "options": [
+      "koleje",
+      "letiště",
+      "chodník",
+      "přístav"
+    ],
+    "answer": "koleje",
+    "explanation": "Dopravní prostředek a cesta, po které jezdí: vlak jezdí po kolejích."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii:\n\nhlad : jíst = žízeň : ?",
+    "options": [
+      "smát se",
+      "pít",
+      "běžet",
+      "spát"
+    ],
+    "answer": "pít",
+    "explanation": "Potřeba a činnost, která ji uspokojí: žízeň zaženeme pitím."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 1,
+    "question": "Doplň analogii:\n\npero : psát = nůžky : ?",
+    "options": [
+      "šít",
+      "kreslit",
+      "lepit",
+      "stříhat"
+    ],
+    "answer": "stříhat",
+    "explanation": "Nástroj a činnost, ke které slouží: nůžkami stříháme."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii:\n\ndřevo : stůl = sklo : ?",
+    "options": [
+      "svetr",
+      "hřebík",
+      "láhev",
+      "cihla"
+    ],
+    "answer": "láhev",
+    "explanation": "Materiál a výrobek z něj: ze dřeva stůl, ze skla láhev."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii:\n\nteplý : horký = chladný : ?",
+    "options": [
+      "mírný",
+      "teplý",
+      "vlažný",
+      "ledový"
+    ],
+    "answer": "ledový",
+    "explanation": "Stupňování intenzity: horký je silnější stupeň teplého, ledový je silnější stupeň chladného."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii:\n\nstrom : les = ovce : ?",
+    "options": [
+      "stádo",
+      "hejno",
+      "roj",
+      "smečka"
+    ],
+    "answer": "stádo",
+    "explanation": "Jednotlivec a skupina: mnoho stromů tvoří les, mnoho ovcí stádo."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii (napiš jedno slovo):\n\nkilogram : hmotnost = metr : ?",
+    "answer": "délka",
+    "accept": [
+      "vzdálenost"
+    ],
+    "explanation": "Jednotka a veličina, kterou měří: metr je jednotkou délky."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii:\n\nspisovatel : román = skladatel : ?",
+    "options": [
+      "symfonie",
+      "obraz",
+      "budova",
+      "socha"
+    ],
+    "answer": "symfonie",
+    "explanation": "Autor a jeho dílo: skladatel komponuje symfonii."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii:\n\nhousenka : motýl = pulec : ?",
+    "options": [
+      "žába",
+      "ještěrka",
+      "had",
+      "ryba"
+    ],
+    "answer": "žába",
+    "explanation": "Vývojové stadium a dospělý jedinec: z pulce se vyvine žába."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii (napiš jedno slovo):\n\nsever : jih = východ : ?",
+    "answer": "západ",
+    "explanation": "Protilehlé světové strany: naproti východu je západ."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii:\n\npožár : kouř = bouřka : ?",
+    "options": [
+      "rosa",
+      "sucho",
+      "mráz",
+      "hrom"
+    ],
+    "answer": "hrom",
+    "explanation": "Jev a to, co ho provází: požár provází kouř, bouřku hrom."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii:\n\nkniha : knihovna = obraz : ?",
+    "options": [
+      "kino",
+      "nemocnice",
+      "galerie",
+      "divadlo"
+    ],
+    "answer": "galerie",
+    "explanation": "Předmět a instituce, která je shromažďuje a vystavuje: obrazy jsou v galerii."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii:\n\nchirurg : skalpel = kadeřník : ?",
+    "options": [
+      "pila",
+      "nůžky",
+      "štětec",
+      "jehla"
+    ],
+    "answer": "nůžky",
+    "explanation": "Profese a její hlavní nástroj: kadeřník stříhá nůžkami."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii:\n\nzub : zubař = oko : ?",
+    "options": [
+      "kardiolog",
+      "ušní lékař",
+      "oční lékař",
+      "ortoped"
+    ],
+    "answer": "oční lékař",
+    "explanation": "Část těla a lékař, který ji léčí: oči léčí oční lékař."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii (napiš jedno slovo):\n\nhodina : minuta = minuta : ?",
+    "answer": "sekunda",
+    "accept": [
+      "vteřina"
+    ],
+    "explanation": "Jednotka času a o řád menší jednotka: hodina se dělí na minuty, minuta na sekundy."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii:\n\nbavlna : tričko = kůže : ?",
+    "options": [
+      "svíčka",
+      "hrnek",
+      "okno",
+      "bota"
+    ],
+    "answer": "bota",
+    "explanation": "Materiál a výrobek z něj: z bavlny tričko, z kůže bota."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii:\n\npomalý : rychlý = tichý : ?",
+    "options": [
+      "klidný",
+      "mírný",
+      "hlasitý",
+      "jemný"
+    ],
+    "answer": "hlasitý",
+    "explanation": "Dvojice protikladů: opakem slova tichý je hlasitý."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii:\n\nmouka : chléb = hrozny : ?",
+    "options": [
+      "sýr",
+      "pivo",
+      "víno",
+      "máslo"
+    ],
+    "answer": "víno",
+    "explanation": "Surovina a výrobek z ní: z mouky se peče chléb, z hroznů se vyrábí víno."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii:\n\nteploměr : teplota = váha : ?",
+    "options": [
+      "hmotnost",
+      "délka",
+      "čas",
+      "rychlost"
+    ],
+    "answer": "hmotnost",
+    "explanation": "Měřidlo a veličina, kterou měří: váha měří hmotnost."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii:\n\nlev : řvát = had : ?",
+    "options": [
+      "bzučet",
+      "syčet",
+      "kvákat",
+      "štěkat"
+    ],
+    "answer": "syčet",
+    "explanation": "Zvíře a zvuk, který vydává: had syčí."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii (napiš jedno slovo):\n\npes : psi = člověk : ?",
+    "answer": "lidé",
+    "accept": [
+      "lidi"
+    ],
+    "explanation": "Jednotné a množné číslo: množné číslo od slova člověk je lidé."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii:\n\npták : peří = ryba : ?",
+    "options": [
+      "šupiny",
+      "srst",
+      "žábry",
+      "ploutve"
+    ],
+    "answer": "šupiny",
+    "explanation": "Živočich a pokryv jeho těla: ptáka kryje peří, rybu šupiny."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii (napiš jedno slovo):\n\nchudoba : bohatství = válka : ?",
+    "answer": "mír",
+    "explanation": "Dvojice protikladů: opakem války je mír."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii (napiš jedno slovo):\n\nhudba : ucho = vůně : ?",
+    "answer": "nos",
+    "explanation": "Podnět a smyslový orgán, který ho vnímá: vůni cítíme nosem."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii (napiš jedno slovo):\n\nrychlý : rychlost = hluboký : ?",
+    "answer": "hloubka",
+    "explanation": "Přídavné jméno a od něj odvozené podstatné jméno vyjadřující vlastnost: hluboký → hloubka."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii:\n\nžalud : dub = šiška : ?",
+    "options": [
+      "smrk",
+      "buk",
+      "lípa",
+      "bříza"
+    ],
+    "answer": "smrk",
+    "explanation": "Plod a strom, na kterém roste: žalud roste na dubu, šiška na smrku (z nabízených jen smrk má šišky)."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 2,
+    "question": "Doplň analogii (napiš jedno slovo):\n\npsát : psal = jíst : ?",
+    "answer": "jedl",
+    "accept": [
+      "jedla",
+      "jedlo"
+    ],
+    "explanation": "Infinitiv a tvar minulého času: jíst → jedl."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 3,
+    "question": "Doplň analogii:\n\nhojný : vzácný = štědrý : ?",
+    "options": [
+      "bohatý",
+      "skromný",
+      "lakomý",
+      "laskavý"
+    ],
+    "answer": "lakomý",
+    "explanation": "Dvojice protikladů: opakem štědrého je lakomý."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 3,
+    "question": "Doplň analogii:\n\nhvězda : astronom = hornina : ?",
+    "options": [
+      "biolog",
+      "meteorolog",
+      "geolog",
+      "archeolog"
+    ],
+    "answer": "geolog",
+    "explanation": "Předmět zkoumání a vědec, který ho zkoumá: horniny zkoumá geolog."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 3,
+    "question": "Doplň analogii:\n\noptimista : naděje = pesimista : ?",
+    "options": [
+      "radost",
+      "odvaha",
+      "nadšení",
+      "obavy"
+    ],
+    "answer": "obavy",
+    "explanation": "Typ člověka a postoj, který k budoucnosti zaujímá: optimista má naději, pesimista obavy."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 3,
+    "question": "Doplň analogii (napiš jedno slovo):\n\nzřídka : často = nikdy : ?",
+    "answer": "vždy",
+    "accept": [
+      "vždycky"
+    ],
+    "explanation": "Protiklady na škále četnosti: opakem slova nikdy je vždy."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 3,
+    "question": "Doplň analogii:\n\nvrchol : hora = koruna : ?",
+    "options": [
+      "kořen",
+      "strom",
+      "list",
+      "kůra"
+    ],
+    "answer": "strom",
+    "explanation": "Horní část a celek: vrchol je nejvyšší částí hory, koruna nejvyšší částí stromu."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 3,
+    "question": "Doplň analogii:\n\nlékař : diagnóza = soudce : ?",
+    "options": [
+      "rozsudek",
+      "žaloba",
+      "zákon",
+      "advokát"
+    ],
+    "answer": "rozsudek",
+    "explanation": "Odborník a závěr, který vynáší: lékař stanoví diagnózu, soudce vynese rozsudek."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 3,
+    "question": "Doplň analogii (napiš jedno slovo):\n\nprolog : epilog = úvod : ?",
+    "answer": "závěr",
+    "accept": [
+      "zakončení",
+      "konec"
+    ],
+    "explanation": "Prolog stojí na začátku díla, epilog na jeho konci; stejně tak úvod a závěr."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 3,
+    "question": "Doplň analogii:\n\nmyš : hlodavec = velryba : ?",
+    "options": [
+      "ryba",
+      "savec",
+      "plaz",
+      "korýš"
+    ],
+    "answer": "savec",
+    "explanation": "Živočich a skupina, do které patří: velryba je savec, nikoli ryba."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 3,
+    "question": "Doplň analogii:\n\nnadšení : apatie = odvaha : ?",
+    "options": [
+      "klid",
+      "síla",
+      "ochota",
+      "zbabělost"
+    ],
+    "answer": "zbabělost",
+    "explanation": "Dvojice protikladů: opakem odvahy je zbabělost."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 3,
+    "question": "Doplň analogii:\n\nkardiolog : srdce = neurolog : ?",
+    "options": [
+      "kosti",
+      "kůže",
+      "nervová soustava",
+      "zuby"
+    ],
+    "answer": "nervová soustava",
+    "explanation": "Lékařský obor a orgán, kterým se zabývá: neurolog léčí nervovou soustavu."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 3,
+    "question": "Doplň analogii:\n\nsloveso : běhat = podstatné jméno : ?",
+    "options": [
+      "pomalu",
+      "rychlý",
+      "stůl",
+      "a"
+    ],
+    "answer": "stůl",
+    "explanation": "Slovní druh a jeho příklad: „stůl“ je podstatné jméno (rychlý je přídavné jméno, pomalu příslovce, a spojka)."
+  },
+  {
+    "category": "Analogie",
+    "difficulty": 3,
+    "question": "Doplň analogii:\n\nostrov : moře = oáza : ?",
+    "options": [
+      "město",
+      "hora",
+      "les",
+      "poušť"
+    ],
+    "answer": "poušť",
+    "explanation": "Ostrůvek něčeho odlišného uprostřed rozlehlého okolí: ostrov v moři, oáza v poušti."
+  }
+]

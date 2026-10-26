@@ -1,0 +1,282 @@
+[
+  {
+    "category": "Písmenné řady",
+    "difficulty": 1,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nD, H, L, P, T, ?",
+    "answer": "X",
+    "explanation": "Posun vždy o 4 písmena dopředu (vynechá se 3)."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 1,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nH, K, N, Q, T, ?",
+    "answer": "W",
+    "explanation": "Posun vždy o 3 písmena dopředu (vynechá se 2)."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 1,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nA, F, K, P, U, ?",
+    "answer": "Z",
+    "explanation": "Posun vždy o 5 písmena dopředu (vynechá se 4)."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 1,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nA, D, G, J, M, ?",
+    "answer": "P",
+    "explanation": "Posun vždy o 3 písmena dopředu (vynechá se 2)."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 1,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nK, N, Q, T, W, ?",
+    "answer": "Z",
+    "explanation": "Posun vždy o 3 písmena dopředu (vynechá se 2)."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 1,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nA, C, E, G, I, ?",
+    "answer": "K",
+    "explanation": "Posun vždy o 2 písmena dopředu (vynechá se 1)."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 1,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nK, M, O, Q, S, ?",
+    "answer": "U",
+    "explanation": "Posun vždy o 2 písmena dopředu (vynechá se 1)."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 1,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nX, W, V, U, T, ?",
+    "answer": "S",
+    "explanation": "Abeceda pozpátku s krokem 1."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 1,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nJ, I, H, G, F, ?",
+    "answer": "E",
+    "explanation": "Abeceda pozpátku s krokem 1."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 1,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nV, S, P, M, J, ?",
+    "answer": "G",
+    "explanation": "Abeceda pozpátku s krokem 3."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 1,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nR, Q, P, O, N, ?",
+    "answer": "M",
+    "explanation": "Abeceda pozpátku s krokem 1."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 1,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nP, M, J, G, D, ?",
+    "answer": "A",
+    "explanation": "Abeceda pozpátku s krokem 3."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 2,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nB, C, E, H, L, ?",
+    "answer": "Q",
+    "explanation": "Posun se zvětšuje: +1, +2, +3, +4, +5 písmen."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 2,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nF, G, I, L, P, ?",
+    "answer": "U",
+    "explanation": "Posun se zvětšuje: +1, +2, +3, +4, +5 písmen."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 2,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nC, D, F, I, M, ?",
+    "answer": "R",
+    "explanation": "Posun se zvětšuje: +1, +2, +3, +4, +5 písmen."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 2,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nE, F, H, K, O, ?",
+    "answer": "T",
+    "explanation": "Posun se zvětšuje: +1, +2, +3, +4, +5 písmen."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 2,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nE, Z, F, Y, G, X, ?",
+    "answer": "H",
+    "explanation": "Dvě proložené řady: E, F, G, H jde dopředu, Z, Y, X jde dozadu."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 2,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nH, S, I, R, J, Q, ?",
+    "answer": "K",
+    "explanation": "Dvě proložené řady: H, I, J, K jde dopředu, S, R, Q jde dozadu."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 2,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nH, W, I, V, J, U, ?",
+    "answer": "K",
+    "explanation": "Dvě proložené řady: H, I, J, K jde dopředu, W, V, U jde dozadu."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 2,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nD, Y, E, X, F, W, ?",
+    "answer": "G",
+    "explanation": "Dvě proložené řady: D, E, F, G jde dopředu, Y, X, W jde dozadu."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 2,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nEV, FU, GT, HS, ?",
+    "answer": "IR",
+    "explanation": "První písmeno postupuje od začátku abecedy, druhé je jeho „zrcadlo“ od konce (A↔Z, B↔Y, …)."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 2,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nBY, CX, DW, EV, ?",
+    "answer": "FU",
+    "explanation": "První písmeno postupuje od začátku abecedy, druhé je jeho „zrcadlo“ od konce (A↔Z, B↔Y, …)."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 2,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nDW, EV, FU, GT, ?",
+    "answer": "HS",
+    "explanation": "První písmeno postupuje od začátku abecedy, druhé je jeho „zrcadlo“ od konce (A↔Z, B↔Y, …)."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 2,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nGT, HS, IR, JQ, ?",
+    "answer": "KP",
+    "explanation": "První písmeno postupuje od začátku abecedy, druhé je jeho „zrcadlo“ od konce (A↔Z, B↔Y, …)."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 2,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nIL, KN, MP, OR, ?",
+    "answer": "QT",
+    "explanation": "Dvojice se posouvá o 2; druhé písmeno je vždy o 3 dál než první."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 2,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nHI, KL, NO, QR, ?",
+    "answer": "TU",
+    "explanation": "Dvojice se posouvá o 3; druhé písmeno je vždy o 1 dál než první."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 2,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nGJ, JM, MP, PS, ?",
+    "answer": "SV",
+    "explanation": "Dvojice se posouvá o 3; druhé písmeno je vždy o 3 dál než první."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 2,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nCD, FG, IJ, LM, ?",
+    "answer": "OP",
+    "explanation": "Dvojice se posouvá o 3; druhé písmeno je vždy o 1 dál než první."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 2,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nDG, FI, HK, JM, ?",
+    "answer": "LO",
+    "explanation": "Dvojice se posouvá o 2; druhé písmeno je vždy o 3 dál než první."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 3,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nFGH, HIJ, JKL, ?",
+    "answer": "LMN",
+    "explanation": "Trojice po sobě jdoucích písmen; každá další začíná o 2 písmen dál."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 3,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nEFG, GHI, IJK, ?",
+    "answer": "KLM",
+    "explanation": "Trojice po sobě jdoucích písmen; každá další začíná o 2 písmen dál."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 3,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nCDE, EFG, GHI, ?",
+    "answer": "IJK",
+    "explanation": "Trojice po sobě jdoucích písmen; každá další začíná o 2 písmen dál."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 3,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nCDE, GHI, KLM, ?",
+    "answer": "OPQ",
+    "explanation": "Trojice po sobě jdoucích písmen; každá další začíná o 4 písmen dál."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 3,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nD, G, F, I, H, K, ?",
+    "answer": "J",
+    "explanation": "Střídavě +3 a −1 písmena."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 3,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nE, H, G, J, I, L, ?",
+    "answer": "K",
+    "explanation": "Střídavě +3 a −1 písmena."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 3,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nC, F, E, H, G, J, ?",
+    "answer": "I",
+    "explanation": "Střídavě +3 a −1 písmena."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 3,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nE5, G7, I9, K11, ?",
+    "answer": "M13",
+    "explanation": "Písmeno se posouvá o 2 a číslo udává jeho pořadí v abecedě."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 3,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nC3, F6, I9, L12, ?",
+    "answer": "O15",
+    "explanation": "Písmeno se posouvá o 3 a číslo udává jeho pořadí v abecedě."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 3,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nI9, K11, M13, O15, ?",
+    "answer": "Q17",
+    "explanation": "Písmeno se posouvá o 2 a číslo udává jeho pořadí v abecedě."
+  },
+  {
+    "category": "Písmenné řady",
+    "difficulty": 3,
+    "question": "Které písmeno (nebo skupina písmen) následuje? Použij abecedu bez háčků, čárek a CH (A–Z).\n\nA1, C3, E5, G7, ?",
+    "answer": "I9",
+    "explanation": "Písmeno se posouvá o 2 a číslo udává jeho pořadí v abecedě."
+  }
+]
